@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pdfplumber
+python-docx
+openai
+httpx
+python-dotenv
+tavily-python
+trafilatura
+beautifulsoup4
+jspdf

@@ -1,0 +1,17 @@
+# Backend
+backend/venv/
+backend/.env
+backend/__pycache__/
+backend/**/__pycache__/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+
+# Editor y sistema
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.local
