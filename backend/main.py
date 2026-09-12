@@ -18,7 +18,9 @@ app = FastAPI()
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # cuando el frontend esté desplegado, cambiar por su dominio real
+    allow_origins=["https://ley-ai.vercel.app"],
+    allow_origin_regex=r"https://ley-ai-.*\.vercel\.app",
+    allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )

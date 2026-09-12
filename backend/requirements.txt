@@ -10,3 +10,4 @@ tavily-python
 trafilatura
 beautifulsoup4
 jspdf
+google-cloud-storage

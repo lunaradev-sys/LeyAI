@@ -1,3 +1,4 @@
+import os
 import json
 import re
 import unicodedata
@@ -5,36 +6,63 @@ from pathlib import Path
 
 import requests
 import trafilatura
+from google.cloud import storage
 
 BASE_DIR = Path(__file__).parent
 RAW_DIR = BASE_DIR / "sources" / "raw"
-MANIFEST_PATH = BASE_DIR / "sources" / "paises.json"
+LOCAL_MANIFEST_PATH = BASE_DIR / "sources" / "paises.json"
 
-RAW_DIR.mkdir(parents=True, exist_ok=True)
+BUCKET_NAME = os.getenv("GCS_BUCKET_NAME")
+
+_storage_client = None
 
 
-def _cargar_manifest() -> dict:
-    if not MANIFEST_PATH.exists():
+def _cliente_storage():
+    global _storage_client
+    if _storage_client is None:
+        _storage_client = storage.Client()
+    return _storage_client
+
+
+def _bucket():
+    if not BUCKET_NAME:
+        raise RuntimeError("Falta la variable de entorno GCS_BUCKET_NAME")
+    return _cliente_storage().bucket(BUCKET_NAME)
+
+
+def _cargar_manifest_nube() -> dict:
+    blob = _bucket().blob("paises.json")
+    if not blob.exists():
         return {}
-    return json.loads(MANIFEST_PATH.read_text(encoding="utf-8"))
+    return json.loads(blob.download_as_text())
 
 
-def _guardar_manifest(manifest: dict):
-    MANIFEST_PATH.write_text(json.dumps(manifest, ensure_ascii=False, indent=2), encoding="utf-8")
+def _guardar_manifest_nube(manifest: dict):
+    blob = _bucket().blob("paises.json")
+    blob.upload_from_string(json.dumps(manifest, ensure_ascii=False, indent=2), content_type="application/json")
+
+
+def _cargar_manifest_local() -> dict:
+    if not LOCAL_MANIFEST_PATH.exists():
+        return {}
+    return json.loads(LOCAL_MANIFEST_PATH.read_text(encoding="utf-8"))
 
 
 def listar_paises() -> dict:
-    return _cargar_manifest()
+    manifest = dict(_cargar_manifest_local())
+    manifest.update(_cargar_manifest_nube())
+    return manifest
 
 
 def cargar_fuente(codigo: str) -> str:
-    manifest = _cargar_manifest()
-    if codigo not in manifest:
-        raise ValueError(f"País no reconocido: {codigo}")
-    ruta = RAW_DIR / f"{codigo}.txt"
-    if not ruta.exists():
+    ruta_local = RAW_DIR / f"{codigo}.txt"
+    if ruta_local.exists():
+        return ruta_local.read_text(encoding="utf-8")
+
+    blob = _bucket().blob(f"raw/{codigo}.txt")
+    if not blob.exists():
         raise FileNotFoundError(f"Falta el texto de {codigo}")
-    return ruta.read_text(encoding="utf-8")
+    return blob.download_as_text()
 
 
 def _slug(nombre: str) -> str:
@@ -47,7 +75,7 @@ def _slug(nombre: str) -> str:
 def extraer_url(url: str, timeout: int = 20, verify_ssl: bool = True) -> str:
     respuesta = requests.get(url, timeout=timeout, headers={"User-Agent": "Mozilla/5.0"}, verify=verify_ssl)
     respuesta.raise_for_status()
-    texto = trafilatura.extract(respuesta.text)
+    texto = trafilatura.extract(respuesta.text, favor_recall=True)
     if not texto:
         raise RuntimeError(f"No se pudo extraer texto de {url}")
     return texto
@@ -58,25 +86,31 @@ def agregar_fuente_texto(nombre: str, texto: str) -> str:
         raise ValueError("El texto extraído está vacío.")
 
     codigo = _slug(nombre)
-    manifest = _cargar_manifest()
+    todos = listar_paises()
 
     codigo_final = codigo
     contador = 2
-    while codigo_final in manifest:
+    while codigo_final in todos:
         codigo_final = f"{codigo}_{contador}"
         contador += 1
 
-    (RAW_DIR / f"{codigo_final}.txt").write_text(texto, encoding="utf-8")
-    manifest[codigo_final] = nombre
-    _guardar_manifest(manifest)
+    _bucket().blob(f"raw/{codigo_final}.txt").upload_from_string(texto, content_type="text/plain; charset=utf-8")
+
+    manifest_nube = _cargar_manifest_nube()
+    manifest_nube[codigo_final] = nombre
+    _guardar_manifest_nube(manifest_nube)
+
     return codigo_final
 
+
 def eliminar_fuente(codigo: str):
-    manifest = _cargar_manifest()
-    if codigo not in manifest:
-        raise ValueError(f"País no reconocido: {codigo}")
-    ruta = RAW_DIR / f"{codigo}.txt"
-    if ruta.exists():
-        ruta.unlink()
-    del manifest[codigo]
-    _guardar_manifest(manifest)
+    manifest_nube = _cargar_manifest_nube()
+    if codigo not in manifest_nube:
+        raise ValueError(f"'{codigo}' no se puede eliminar (es uno de los 15 países base, o no existe).")
+
+    blob = _bucket().blob(f"raw/{codigo}.txt")
+    if blob.exists():
+        blob.delete()
+
+    del manifest_nube[codigo]
+    _guardar_manifest_nube(manifest_nube)
