@@ -36,17 +36,23 @@ def _extraer_json(contenido: str) -> dict:
 # Chat
 # ---------------------------------------------------------------------------
 
-SISTEMA_CHAT = """Eres LeyAI, un asistente experto en legislación de cooperativas de distintos países.
+SISTEMA_CHAT = """Eres LeyAI, un asistente que responde sobre legislación de cooperativas usando los extractos de ley que se te entregan.
 
-Reglas que debes cumplir siempre:
+Tu prioridad número uno es la FIDELIDAD AL TEXTO, por encima de que la respuesta suene completa o fluida. Vale mucho más una respuesta corta y exacta que una extensa con afirmaciones que la ley no hace.
 
-1. Responde SIEMPRE en español, aunque los textos de las leyes estén en inglés, portugués, alemán, sueco, finlandés, francés o italiano. Traduce lo que necesites citar.
-2. Basa tu respuesta únicamente en los EXTRACTOS DE LEYES que te entrego. No inventes artículos, cifras ni requisitos.
-3. Cuando afirmes algo, di de qué país es y, si el extracto lo indica, de qué artículo. Por ejemplo, "en Chile, el artículo 11 exige…".
-4. Si los extractos no alcanzan para responder, dilo con claridad y sugiere qué país o qué tema conviene consultar. No rellenes con conocimiento general.
-5. Si te piden comparar, organiza la respuesta por temas y muestra cómo trata cada país ese tema, no país por país en bloques sueltos.
-6. Escribe en prosa clara, usa listas o tablas solo cuando ayuden de verdad. Nada de relleno ni de repetir la pregunta.
-7. Recuerda que quien pregunta no es abogado. Explica los términos técnicos la primera vez que los uses."""
+Reglas obligatorias:
+
+1. Responde SIEMPRE en español, aunque los extractos estén en inglés, portugués, alemán, sueco, finlandés, francés o italiano. Traduce de forma literal, sin adornar.
+2. Usa ÚNICAMENTE los EXTRACTOS que te entrego. Cada afirmación que hagas tiene que poder rastrearse a una frase concreta de un extracto.
+3. Pégate a la letra. Parafrasea lo mínimo para que se entienda y conserva tal cual los términos, plazos, porcentajes, cantidades, mayorías y condiciones. No redondees cifras, no cambies "podrá" por "deberá", no reemplaces un término legal por uno coloquial.
+4. Di siempre de qué país es cada afirmación y, cuando el extracto lo indique, de qué artículo. Por ejemplo, "en Chile, el artículo 11 exige…".
+5. Separa lo que dice la ley de lo que tú deduces. Si necesitas explicar algo que el texto no dice con esas palabras, ponlo aparte, empezando con "Interpretación:", y déjalo en una o dos frases. Todo lo que escribas sin esa marca debe ser lo que la ley dice.
+6. Si los extractos no cubren algo, escribe "no aparece en los extractos consultados". Eso NO es lo mismo que decir que la ley no lo contempla, y no debes afirmar lo segundo nunca.
+7. Prohibido rellenar con conocimiento general sobre cooperativas, sobre derecho comparado o sobre lo que suelen decir estas leyes. Si no está en los extractos, para ti no existe.
+8. No traslades una regla de un país a otro ni supongas que dos países se parecen. Si solo tienes el dato de un país, responde solo por ese país.
+9. Si te piden comparar, organiza por temas y muestra cómo trata cada país ese tema. Si de algún país no hay material sobre ese tema, dilo en vez de omitirlo en silencio.
+10. Escribe claro y directo. Listas o tablas solo cuando ayuden de verdad. Nada de relleno, de repetir la pregunta ni de cerrar con consejos genéricos.
+11. Quien pregunta no es abogado. Explica el término técnico la primera vez que lo uses, entre paréntesis y en pocas palabras."""
 
 
 def _mensajes_chat(historial: list[dict], pregunta: str, contexto: str) -> list[dict]:
@@ -80,7 +86,9 @@ async def chat_stream(historial: list[dict], pregunta: str, contexto: str) -> As
     flujo = await client.chat.completions.create(
         model=MODELO_CHAT,
         messages=_mensajes_chat(historial, pregunta, contexto),
-        temperature=0.3,
+        # Temperatura baja, el modelo se queda pegado a lo que dice el texto
+        # en vez de "completar" con lo que le parece razonable.
+        temperature=0.1,
         max_tokens=3000,
         stream=True,
         extra_body=SIN_PENSAR,
@@ -135,7 +143,7 @@ async def identificar_tema(texto_ley: str) -> AnalisisLey:
                 f"Texto de la ley:\n{texto_ley[:4000]}"
             ),
         }],
-        temperature=0.2,
+        temperature=0.1,
         max_tokens=800,
         extra_body=SIN_PENSAR,
     )
@@ -155,18 +163,22 @@ async def resumir_pais(nombre_pais: str, texto_pais: str) -> dict:
             "role": "user",
             "content": (
                 f"Explica en español, en detalle, la ley de cooperativas de {nombre_pais}. "
-                "Si el texto está en otro idioma, tradúcelo, la respuesta va siempre en español. "
+                "Si el texto está en otro idioma, tradúcelo de forma literal. "
                 "Responde SOLO con JSON válido, con estos campos, cada uno debe ser un "
-                "resumen completo de 2 a 3 párrafos (no frases sueltas), explicando bien "
-                "el contenido y sin omitir detalles importantes, "
+                "resumen completo de 2 a 3 párrafos (no frases sueltas), "
                 "requisitos_constitucion, gobierno, derechos_deberes_socios, "
-                "distribucion_excedentes, disolucion_liquidacion. "
-                "Basado solo en el texto, sin inventar información. Si algún punto no "
-                "aparece en el texto, dilo explícitamente en ese campo.\n\n"
+                "distribucion_excedentes, disolucion_liquidacion.\n\n"
+                "REGLAS ESTRICTAS. Pégate a la letra del texto, conservando términos, "
+                "plazos, porcentajes, cantidades y mayorías tal como aparecen. No "
+                "completes con conocimiento general sobre cooperativas ni sobre lo que "
+                "suelen decir estas leyes. Cita el artículo cuando el texto lo indique. "
+                "Si un punto no aparece en el texto, escribe en ese campo 'no aparece en "
+                "los extractos consultados', que no es lo mismo que decir que la ley no "
+                "lo contempla.\n\n"
                 f"TEXTO:\n{texto_pais[:45000]}"
             ),
         }],
-        temperature=0.2,
+        temperature=0.1,
         max_tokens=3000,
         extra_body=SIN_PENSAR,
     )
@@ -184,11 +196,17 @@ async def comparar_con_pais(texto_propio: str, nombre_pais: str, texto_pais: str
                 "una lista de objetos con 'tema' y 'detalle', señalando las "
                 "diferencias más relevantes entre ambas legislaciones. Cita los artículos "
                 "cuando el texto los indique.\n\n"
+                "REGLAS ESTRICTAS. Cada diferencia que afirmes tiene que estar respaldada "
+                "por una frase concreta de alguno de los dos textos. Conserva términos, "
+                "plazos, porcentajes y cantidades tal como aparecen. No inventes "
+                "diferencias por simetría ni supongas lo que la otra ley diría. Si un "
+                "tema aparece en un texto y en el otro no, dilo así en vez de afirmar que "
+                "esa ley no lo regula.\n\n"
                 f"LEY SUBIDA:\n{texto_propio[:12000]}\n\n"
                 f"LEY DE {nombre_pais.upper()}:\n{texto_pais[:30000]}"
             ),
         }],
-        temperature=0.2,
+        temperature=0.1,
         max_tokens=2000,
         extra_body=SIN_PENSAR,
     )
@@ -213,10 +231,15 @@ async def comparar_entre_paises(paises_textos: dict) -> dict:
                 "una lista de objetos con 'tema' y 'detalle'. El 'detalle' debe explicar "
                 "cómo trata ese tema cada país por separado, sé específico y detallado. "
                 "Organiza por temas, no por país.\n\n"
+                "REGLAS ESTRICTAS. Solo puedes afirmar lo que aparece en los textos. "
+                "Conserva términos, plazos, porcentajes y cantidades tal como están. No "
+                "supongas que dos países se parecen ni traslades una regla de uno a otro. "
+                "Si de un país no hay material sobre ese tema, escríbelo así en el "
+                "detalle en vez de omitirlo o de inventar qué diría.\n\n"
                 f"{bloques}"
             ),
         }],
-        temperature=0.2,
+        temperature=0.1,
         max_tokens=4000,
         extra_body=SIN_PENSAR,
     )
