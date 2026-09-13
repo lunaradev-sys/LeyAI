@@ -1,19 +1,28 @@
+"""Descarga las leyes de los países base y las deja como .txt en sources/raw.
+
+    python prepare_sources.py            # extrae solo lo que falta o está roto
+    python prepare_sources.py --forzar   # vuelve a extraer todo desde cero
+"""
+
 import os
+import sys
 import tempfile
 from pathlib import Path
 
 import pdfplumber
 import requests
 import trafilatura
-
 from bs4 import BeautifulSoup
-
 
 BASE_DIR = Path(__file__).parent
 RAW_DIR = BASE_DIR / "sources" / "raw"
 PDF_DIR = BASE_DIR / "sources" / "pdfs"
 
 RAW_DIR.mkdir(parents=True, exist_ok=True)
+
+# Menos caracteres que esto significa que el scrape falló, típicamente porque la
+# página exige JavaScript y devolvió un aviso en vez de la ley.
+MINIMO_ACEPTABLE = 1000
 
 FUENTES = {
     "chile": {"type": "pdf", "file": "Legilación de Chile.pdf"},
@@ -32,10 +41,25 @@ FUENTES = {
     "argentina": {"type": "url", "url": "https://servicios.infoleg.gob.ar/infolegInternet/anexos/15000-19999/18462/texact.htm"},
     "uruguay": {"type": "url", "url": "https://www.impo.com.uy/bases/leyes/18407-2008"},
     "brasil": {"type": "url", "url": "https://www.planalto.gov.br/ccivil_03/leis/l5764.htm"},
-    "alemania": {"type": "url", "url": "https://www.gesetze-im-internet.de/geng/"},
+    # La página /geng/ es solo el índice de contenidos, devolvía 9 KB de títulos
+    # sin articulado. Este PDF es el texto completo del Genossenschaftsgesetz.
+    "alemania": {"type": "pdf_url", "url": "https://www.gesetze-im-internet.de/geng/GenG.pdf"},
     "suecia": {"type": "url", "url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2018672-om-ekonomiska-foreningar_sfs-2018-672/"},
-    "portugal": {"type": "url", "url": "https://diariodarepublica.pt/dr/detalhe/lei/119-2015-70139955"},
+    # El sitio diariodarepublica.pt exige JavaScript y devolvía "JavaScript is
+    # required" en vez de la ley. Este PDF es la publicación oficial del
+    # Diário da República con el Código Cooperativo completo.
+    "portugal": {
+        "type": "pdf_url",
+        "url": "https://www.fenacerci.pt/docs/act-rel/2017/04/Lei_119_2015_CodigoCooperativo.pdf",
+    },
     "colombia": {"type": "url", "url": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=9211", "verify_ssl": False},
+}
+
+NOMBRES = {
+    "chile": "Chile", "uk": "Reino Unido", "canada": "Canadá", "finlandia": "Finlandia",
+    "francia": "Francia", "italia": "Italia", "espana": "España", "nueva_zelanda": "Nueva Zelanda",
+    "argentina": "Argentina", "uruguay": "Uruguay", "brasil": "Brasil", "alemania": "Alemania",
+    "suecia": "Suecia", "portugal": "Portugal", "colombia": "Colombia",
 }
 
 
@@ -52,8 +76,10 @@ def extraer_pdf(path, section_start=None, section_end=None):
     return texto
 
 
-def extraer_pdf_url(url, timeout=30, verify_ssl=True):
-    respuesta = requests.get(url, timeout=timeout, headers={"User-Agent": "Mozilla/5.0"}, verify=verify_ssl)
+def extraer_pdf_url(url, timeout=60, verify_ssl=True):
+    respuesta = requests.get(
+        url, timeout=timeout, headers={"User-Agent": "Mozilla/5.0"}, verify=verify_ssl
+    )
     respuesta.raise_for_status()
     with tempfile.NamedTemporaryFile(suffix=".pdf", delete=False) as tmp:
         tmp.write(respuesta.content)
@@ -65,7 +91,9 @@ def extraer_pdf_url(url, timeout=30, verify_ssl=True):
 
 
 def extraer_url(url, timeout=20, verify_ssl=True):
-    respuesta = requests.get(url, timeout=timeout, headers={"User-Agent": "Mozilla/5.0"}, verify=verify_ssl)
+    respuesta = requests.get(
+        url, timeout=timeout, headers={"User-Agent": "Mozilla/5.0"}, verify=verify_ssl
+    )
     respuesta.raise_for_status()
     texto = trafilatura.extract(respuesta.text, favor_recall=True)
     if not texto:
@@ -76,46 +104,52 @@ def extraer_url(url, timeout=20, verify_ssl=True):
     return texto
 
 
-NOMBRES = {
-    "chile": "Chile", "uk": "Reino Unido", "canada": "Canadá", "finlandia": "Finlandia",
-    "francia": "Francia", "italia": "Italia", "espana": "España", "nueva_zelanda": "Nueva Zelanda",
-    "argentina": "Argentina", "uruguay": "Uruguay", "brasil": "Brasil", "alemania": "Alemania",
-    "suecia": "Suecia", "portugal": "Portugal", "colombia": "Colombia",
-}
+def extraer(cfg):
+    if cfg["type"] == "pdf":
+        return extraer_pdf(PDF_DIR / cfg["file"], cfg.get("section_start"), cfg.get("section_end"))
+    if cfg["type"] == "pdf_url":
+        return extraer_pdf_url(cfg["url"], verify_ssl=cfg.get("verify_ssl", True))
+    return extraer_url(cfg["url"], verify_ssl=cfg.get("verify_ssl", True))
 
 
-def main():
-    from search import _cargar_manifest, _guardar_manifest
-    manifest = _cargar_manifest()
+def main(forzar: bool = False):
+    from search import _cargar_manifest_local, _guardar_manifest_local
+
+    manifest = _cargar_manifest_local()
     pendientes = []
 
     for pais, cfg in FUENTES.items():
         raw_path = RAW_DIR / f"{pais}.txt"
-        if raw_path.exists():
-            print(f"{pais}: ya extraído, saltando")
-            manifest[pais] = NOMBRES[pais]
-            continue
 
-        print(f"Extrayendo {pais}...")
+        if raw_path.exists() and not forzar:
+            actual = raw_path.read_text(encoding="utf-8").strip()
+            if len(actual) >= MINIMO_ACEPTABLE:
+                print(f"{pais}: ya extraído ({len(actual):,} caracteres), saltando")
+                manifest[pais] = NOMBRES[pais]
+                continue
+            print(f"{pais}: el archivo tiene solo {len(actual)} caracteres, se vuelve a extraer")
+
+        print(f"Extrayendo {pais}…")
         try:
-            if cfg["type"] == "pdf":
-                texto = extraer_pdf(PDF_DIR / cfg["file"], cfg.get("section_start"), cfg.get("section_end"))
-            elif cfg["type"] == "pdf_url":
-                texto = extraer_pdf_url(cfg["url"], verify_ssl=cfg.get("verify_ssl", True))
-            else:
-                texto = extraer_url(cfg["url"], verify_ssl=cfg.get("verify_ssl", True))
+            texto = extraer(cfg)
+            if len(texto.strip()) < MINIMO_ACEPTABLE:
+                raise RuntimeError(
+                    f"la fuente devolvió solo {len(texto.strip())} caracteres, "
+                    f"probablemente exige JavaScript"
+                )
             raw_path.write_text(texto, encoding="utf-8")
             manifest[pais] = NOMBRES[pais]
-            print(f"  {pais}: OK ({len(texto)} caracteres)")
+            print(f"  {pais}: OK ({len(texto):,} caracteres)")
         except Exception as e:
             print(f"  {pais}: FALLÓ ({e})")
             pendientes.append(pais)
 
-    _guardar_manifest(manifest)
+    _guardar_manifest_local(manifest)
     print("\nListo. Revisa backend/sources/raw/ y backend/sources/paises.json")
     if pendientes:
         print(f"Quedaron pendientes: {', '.join(pendientes)}")
+    print("\nAhora corre: python construir_indice.py")
 
 
 if __name__ == "__main__":
-    main()
+    main(forzar="--forzar" in sys.argv)

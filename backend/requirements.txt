@@ -5,9 +5,9 @@ pdfplumber
 python-docx
 openai
 httpx
+requests
 python-dotenv
-tavily-python
 trafilatura
 beautifulsoup4
-jspdf
+numpy
 google-cloud-storage

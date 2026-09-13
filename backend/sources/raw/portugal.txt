@@ -1,1 +1,1708 @@
-JavaScript is required
+Diário da República, 1.ª série — N.º 169 — 31 de agosto de 2015 6581
+10 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Artigo 5.º
+11 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .»
+Entrada em vigor
+Artigo 4.º A presente lei entra em vigor no dia seguinte ao da sua
+publicação.
+Alteração ao Decreto -Lei n.º 228/2000, de 23 de setembro
+Aprovada em 22 de julho de 2015.
+Os artigos 2.º e 4.º do Decreto -Lei n.º 228/2000, de 23 de
+setembro, alterado pelos Decretos- Leis n.os 211- A/2008, de A Presidente da Assembleia da República, Maria da
+3 de novembro, e 143/2013, de 18 de outubro, que cria o Assunção A. Esteves.
+Conselho Nacional de Supervisores Financeiros, passam
+Promulgada em 20 de agosto de 2015.
+a ter a seguinte redação:
+Publique -se.
+«Artigo 2.º
+O Presidente da República, ANÍBAL CAVACO SILVA.
+[...]
+Referendada em 24 de agosto de 2015.
+1 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Pelo Primeiro- Ministro, Paulo Sacadura Cabral Portas,
+2 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . :
+Vice -Primeiro -Ministro.
+a) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ;
+b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ; Lei n.º 119/2015
+c) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ;
+d) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ; de 31 de agosto
+e) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ;
+f) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ; Aprova o Código Cooperativo e revoga a Lei n.º 51/96,
+g) Pronunciar -se sobre quaisquer iniciativas legis- de 7 de setembro
+lativas relativas à regulação do setor financeiro que se A Assembleia da República decreta, nos termos da
+insiram no âmbito das respetivas competências e prestar alínea c) do artigo 161.º da Constituição, o seguinte:
+informações nos termos previstos no n.º 8;
+h) [Anterior alínea g)];
+i) [Anterior alínea h)]; CAPÍTULO I
+j) [Anterior alínea i)];
+Disposições gerais
+k) Avaliar a legislação em vigor à luz da necessidade
+de garantir uma efetiva coordenação da atuação das
+Artigo 1.º
+entidades responsáveis pela regulação e supervisão do
+sistema financeiro português; Aprovação e âmbito
+l) [Anterior alínea j)].
+A presente lei aprova o Código Cooperativo e aplica -se
+às cooperativas de todos os graus e às organizações afins,
+3 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+cuja legislação especial para ele expressamente remeta.
+4 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Artigo 2.º
+6 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+7 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Noção
+8 — O Conselho elabora um relatório anual de 1 — As cooperativas são pessoas coletivas autónomas,
+atividades, que é enviado à Assembleia da República de livre constituição, de capital e composição variáveis,
+e ao membro do Governo responsável pela área das que, através da cooperação e entreajuda dos seus membros,
+finanças e publicado até ao dia 31 de março de cada com obediência aos princípios cooperativos, visam, sem
+ano. fins lucrativos, a satisfação das necessidades e aspirações
+económicas, sociais ou culturais daqueles.
+Artigo 4.º 2 — As cooperativas, na prossecução dos seus objetivos,
+podem realizar operações com terceiros, sem prejuízo
+[...]
+de eventuais limites fixados pelas leis próprias de cada
+1 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . : ramo.
+a) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ; Artigo 3.º
+b) Um membro do conselho de administração do
+Princípios cooperativos
+Banco de Portugal com o pelouro da supervisão;
+c) O presidente da Autoridade de Supervisão de Se- As cooperativas, na sua constituição e funcionamento,
+guros e Fundos de Pensões; obedecem aos seguintes princípios cooperativos, que inte-
+d) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . gram a declaração sobre a identidade cooperativa adotada
+pela Aliança Cooperativa Internacional:
+2 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.º Princípio — Adesão voluntária e livre
+3 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . As cooperativas são organizações voluntárias, abertas a
+5 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . todas as pessoas aptas a utilizar os seus serviços e dispostas
+6 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . a assumir as responsabilidades de membro, sem discrimi-
+7 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .» nações de sexo, sociais, políticas, raciais ou religiosas.
+6582 Diário da República, 1.ª série — N.º 169 — 31 de agosto de 2015
+2.º Princípio — Gestão democrática pelos membros c) Comercialização;
+d) Consumidores;
+As cooperativas são organizações democráticas geridas
+e) Crédito;
+pelos seus membros, os quais participam ativamente na
+f) Cultura;
+formulação das suas políticas e na tomada de decisões. Os
+g) Ensino;
+homens e as mulheres que exerçam funções como repre-
+h) Habitação e construção;
+sentantes eleitos são responsáveis perante o conjunto dos
+i) Pescas;
+membros que os elegeram. Nas cooperativas do primeiro
+j) Produção operária;
+grau, os membros têm iguais direitos de voto (um membro,
+k) Serviços;
+um voto), estando as cooperativas de outros graus organi-
+l) Solidariedade social.
+zadas também de uma forma democrática.
+2 — É admitida a constituição de cooperativas multis-
+3.º Princípio — Participação económica dos membros
+sectoriais, que se caracterizam por poderem desenvolver
+Os membros contribuem equitativamente para o capital atividades próprias de diversos ramos do sector coopera-
+das suas cooperativas e controlam -no democraticamente. tivo, tendo cada uma delas de indicar no ato de constituição
+Pelo menos parte desse capital é, normalmente, propriedade por qual dos ramos opta como elemento de referência, com
+comum da cooperativa. Os cooperadores, habitualmente, vista à sua integração em cooperativas de grau superior.
+recebem, se for caso disso, uma remuneração limitada, pelo 3 — A legislação complementar regula os diversos ra-
+capital subscrito como condição para serem membros. Os mos cooperativos.
+cooperadores destinam os excedentes a um ou mais dos 4 — As cooperativas de solidariedade social que pros-
+objetivos seguintes: desenvolvimento das suas cooperati- sigam os objetivos previstos no artigo 1.º do Estatuto das
+vas, eventualmente através da criação de reservas, parte das Instituições Particulares de Solidariedade Social, aprovado
+quais, pelo menos, é indivisível; benefício dos membros na pelo Decreto- Lei n.º 119/83, de 25 de fevereiro, com a
+proporção das suas transações com a cooperativa; apoio a redação dada pelo Decreto -Lei n.º 172 -A/2014, de 14 de
+outras atividades aprovadas pelos membros. novembro, e que sejam reconhecidas nessa qualidade pela
+Direção -Geral da Ação Social, são equiparadas às insti-
+4.º Princípio — Autonomia e independência tuições particulares de solidariedade social, aplicando -se-
+As cooperativas são organizações autónomas de en- -lhes o mesmo estatuto de direitos, deveres e benefícios,
+treajuda, controladas pelos seus membros. No caso de designadamente fiscais.
+entrarem em acordos com outras organizações, incluindo
+os governos, ou de recorrerem a capitais externos, devem Artigo 5.º
+fazê -lo de modo a que fique assegurado o controlo demo-
+Espécies de cooperativas e membros
+crático pelos seus membros e se mantenha a sua autonomia
+como cooperativas. 1 — As cooperativas podem ser do primeiro grau ou
+de grau superior.
+2 — São cooperativas do primeiro grau aquelas cujos
+5.º Princípio — Educação, formação e informação
+cooperadores sejam pessoas singulares ou coletivas.
+As cooperativas promovem a educação e a formação dos
+3 — São cooperativas de grau superior as uniões, fede-
+seus membros, dos representantes eleitos, dos dirigentes e
+rações e confederações de cooperativas.
+dos trabalhadores, de modo a que possam contribuir efi-
+4 — As cooperativas podem integrar membros inves-
+cazmente para o desenvolvimento das suas cooperativas.
+tidores.
+Elas devem informar o grande público particularmente,
+os jovens e os líderes de opinião, sobre a natureza e as
+Artigo 6.º
+vantagens da cooperação.
+Cooperativas de interesse público
+6.º Princípio — Intercooperação
+1 — É permitida a constituição, nos termos da respetiva
+As cooperativas servem os seus membros mais eficaz- legislação especial, de cooperativas de interesse público,
+mente e dão mais força ao movimento cooperativo, traba- ou régies cooperativas, caracterizadas pela participação do
+lhando em conjunto, através de estruturas locais, regionais, Estado, de outras pessoas coletivas de direito público e de
+nacionais e internacionais. cooperativas, de utentes de bens e serviços produzidos ou
+de quaisquer entidades da economia social.
+7.º Princípio — Interesse pela comunidade 2 — O presente Código aplica -se às cooperativas de
+interesse público, ou régies cooperativas, em tudo o que
+As cooperativas trabalham para o desenvolvimento
+não contrarie a respetiva legislação especial.
+sustentável das suas comunidades, através de políticas
+aprovadas pelos membros.
+Artigo 7.º
+Artigo 4.º Iniciativa cooperativa
+Ramos do sector cooperativo 1 — Desde que respeitem a lei e os princípios coopera-
+tivos, as cooperativas podem exercer livremente qualquer
+1 — Sem prejuízo de outros que venham a ser legal-
+atividade económica.
+mente consagrados, o sector cooperativo compreende os
+2 — Às cooperativas não pode ser vedado, restringido
+seguintes ramos:
+ou condicionado, o acesso e o exercício de atividades que
+a) Agrícola; possam ser desenvolvidas por empresas privadas, ou por
+b) Artesanato; outras entidades da Economia Social.
+Diário da República, 1.ª série — N.º 169 — 31 de agosto de 2015 6583
+3 — São aplicáveis às cooperativas, com as adaptações reuniões necessárias, até à tomada de posse dos titulares
+inerentes às especificidades resultantes do disposto neste dos órgãos da cooperativa constituída.
+Código e legislação complementar, as normas que regulam 2 — Cada interessado dispõe de um voto.
+e garantem o exercício de quaisquer atividades desenvol- 3 — Para que a cooperativa se considere constituída,
+vidas por empresas privadas ou por outras entidades da é necessário que os interessados que votaram favoravel-
+mesma natureza, bem como por quaisquer entidades da mente a sua criação e os seus estatutos perfaçam o número
+Economia Social. mínimo legalmente exigido, sendo irrelevante o número
+4 — Os atos administrativos contrários ao disposto nos dos que tenham votado em sentido contrário.
+números anteriores ou aos princípios neles consignados
+serão nulos. Artigo 13.º
+Artigo 8.º Ata
+Associação entre cooperativas e outras pessoas coletivas 1 — A mesa da assembleia de fundadores elabora uma
+ata, a qual deve obrigatoriamente conter:
+1 — É permitida a associação entre cooperativas e ou-
+tras pessoas coletivas desde que essa associação respeite os a) A deliberação da constituição e a respetiva data;
+princípios cooperativos da autonomia e da independência. b) O local da reunião;
+2 — Para os efeitos previstos no número anterior, a c) A denominação da cooperativa;
+associação pode verificar -se mesmo que dessa associação d) O ramo do sector cooperativo a que pertence, ou
+não resulte a criação de uma outra pessoa coletiva. por que opta como espaço de integração, no caso de ser
+3 — Nas cooperativas que resultem exclusivamente multissectorial;
+da associação entre cooperativas, ou entre estas e pessoas
+e) O objeto;
+coletivas de direito público ou outras entidades da Eco-
+f) Os bens ou os direitos, o trabalho ou os serviços, com
+nomia Social, o regime de voto pode ser o adotado pelas
+que os cooperadores concorrem;
+cooperativas de grau superior.
+g) Os titulares dos órgãos da cooperativa para o primeiro
+mandato;
+Artigo 9.º
+h) A identificação dos fundadores que tiverem aprovado
+a ata.
+Direito subsidiário
+i) A identificação dos membros investidores quando
+Para colmatar as lacunas do presente Código, que não
+os houver.
+o possam ser pelo recurso à legislação complementar
+aplicável aos diversos ramos do sector cooperativo, pode
+2 — A ata de fundação deve ser assinada por aqueles
+recorrer -se, na medida em que se não desrespeitem os
+que tenham aprovado a criação da cooperativa.
+princípios cooperativos, ao Código das Sociedades Comer-
+3 — Os estatutos aprovados constam de documento
+ciais, nomeadamente aos preceitos aplicáveis às sociedades
+anexo à ata e são assinados pelos fundadores.
+anónimas.
+Artigo 14.º
+CAPÍTULO II
+Alteração dos estatutos
+Constituição As alterações de estatutos da cooperativa devem obser-
+var a forma exigida para o ato constitutivo.
+Artigo 10.º
+Artigo 15.º
+Forma de constituição
+A constituição das cooperativas deve ser reduzida a Denominação
+escrito, salvo se forma mais solene for exigida para a trans- 1 — A denominação adotada deve ser sempre seguida
+missão dos bens que representem o capital social com que
+das expressões «cooperativa», «união de cooperativas»,
+os cooperadores entram para a cooperativa.
+«federação de cooperativas», «confederação de coopera-
+tivas» e ainda de «responsabilidade limitada» ou de «res-
+Artigo 11.º
+ponsabilidade ilimitada», ou das respetivas abreviaturas,
+conforme os casos.
+Número mínimo de cooperadores
+2 — O uso da palavra «cooperativa» e da sua abrevia-
+1 — O número de membros de uma cooperativa é va-
+tura «coop» é exclusivamente reservado às cooperativas e
+riável e ilimitado, mas não pode ser inferior a três nas
+às suas organizações de grau superior, constituindo viola-
+cooperativas de primeiro grau e a dois nas cooperativas
+ção o seu uso por outrem, punido ao abrigo da legislação
+de grau superior.
+aplicável.
+2 — A legislação complementar respeitante aos ramos
+3 — A denominação deve ser inscrita no Registo Na-
+cooperativos pode exigir, como mínimo, um número su-
+cional de Pessoas Coletivas.
+perior de cooperadores.
+Artigo 16.º
+Artigo 12.º
+Elementos dos estatutos
+Assembleia de fundadores
+1 — Os estatutos devem obrigatoriamente conter:
+1 — Os interessados na constituição de uma cooperativa
+reúnem -se em assembleia de fundadores, para cuja mesa a) A denominação da cooperativa e a localização da
+elegem, pelo menos, o presidente, que convoca e dirige as sede;
+6584 Diário da República, 1.ª série — N.º 169 — 31 de agosto de 2015
+b) O ramo do sector cooperativo a que pertence, ou 2 — A admissão é decidida e comunicada ao candidato
+por que opta como espaço de integração, no caso de ser no prazo fixado nos estatutos, ou supletivamente no prazo
+multissectorial, bem como o objeto da sua atividade; máximo de 180 dias, devendo a decisão, em caso de recusa,
+c) A duração da cooperativa, quando não for por tempo ser fundamentada.
+indeterminado; 3 — A decisão sobre o requerimento de admissão é
+d) Os órgãos da cooperativa; suscetível de recurso para a primeira assembleia geral
+e) As condições de atribuição do voto plural, desde subsequente.
+que esta forma de voto esteja prevista nos estatutos da 4 — Têm legitimidade para recorrer os membros da
+cooperativa; cooperativa e o candidato, podendo este assistir a essa
+f) O montante do capital social inicial, o montante das assembleia geral e participar na discussão deste ponto da
+joias, se estas forem exigíveis, o valor dos títulos de capital ordem de trabalhos, sem direito a voto.
+e o capital mínimo a subscrever por cada cooperador;
+g) As condições e limites da existência de membros Artigo 20.º
+investidores quando os houver.
+Membros investidores
+1 — Os estatutos podem prever a admissão de membros
+2 — Os estatutos podem ainda incluir:
+investidores, cuja soma total das entradas não pode ser
+a) As condições de admissão, suspensão, exclusão e de- superior a 30 % das entradas realizadas na cooperativa.
+missão dos membros, bem como os seus direitos e deveres; 2 — A admissão referida no número anterior pode ser
+b) As sanções e as medidas cautelares, bem como as feita através de:
+condições gerais em que são aplicadas;
+a) Subscrição de títulos de capital;
+c) A duração dos mandatos dos titulares dos órgãos
+b) Subscrição de títulos de investimento.
+sociais;
+d) As normas de convocação e funcionamento da assem-
+3 — A admissão de membros investidores tem de ser
+bleia geral e, quando exista, da assembleia de delegados;
+aprovada em assembleia geral, e deve ser antecedida de
+e) As normas de distribuição dos excedentes, de criação
+proposta do órgão de administração.
+de reservas e de restituição das entradas aos membros que
+4 — A proposta de admissão dos membros investidores
+deixarem de o ser;
+efetuada pelo órgão de administração, nos termos do nú-
+f) O modo de proceder à liquidação e partilha dos bens
+mero anterior, deve abranger obrigatoriamente os seguintes
+da cooperativa, em caso de dissolução. elementos:
+3 — Na falta de disposição estatutária relativamente às a) O capital mínimo a subscrever pelos membros in-
+matérias enunciadas no número anterior, são aplicáveis as vestidores e as condições da sua realização;
+normas constantes do presente Código. b) O número de votos a atribuir a cada membro inves-
+tidor e os critérios para a sua atribuição;
+Artigo 17.º c) O elenco de direitos e deveres a que fiquem especial-
+mente vinculados os membros investidores;
+Aquisição de personalidade jurídica d) A data de cessação da qualidade de membro investi-
+A cooperativa adquire personalidade jurídica com o dor, se a admissão for feita com prazo certo;
+registo da sua constituição. e) As condições de saída da qualidade de membro in-
+vestidor;
+Artigo 18.º f) A eventual existência de restrições dos membros in-
+vestidores à integração nos órgãos sociais respetivos da
+Responsabilidade antes do registo cooperativa, devendo ser especificado o fundamento das
+1 — Antes do registo do ato de constituição da coo- mesmas.
+perativa, respondem solidária e ilimitadamente entre si Artigo 21.º
+todos os que praticaram atos em nome da cooperativa ou
+Direitos dos cooperadores
+autorizaram esses atos.
+2 — Os restantes membros respondem até ao limite do 1 — Os cooperadores têm direito, nomeadamente, a:
+valor dos títulos do capital que subscreveram, acrescido das
+a) Participar na atividade económica e social da coo-
+importâncias que tenham recebido a título de distribuição
+perativa;
+de excedentes.
+b) Tomar parte na assembleia geral, apresentando pro-
+postas, discutindo e votando os pontos constantes da ordem
+CAPÍTULO III de trabalhos;
+c) Eleger e ser eleitos para os órgãos da cooperativa;
+Membros
+d) Requerer informações aos órgãos competentes da
+cooperativa e examinar o relatório de gestão e documentos
+Artigo 19.º de prestação de contas, nos períodos e nas condições que
+forem fixados pelos estatutos, pela assembleia geral ou
+Cooperadores
+pelo órgão de administração;
+1 — Podem ser cooperadores, de uma cooperativa de e) Requerer a convocação da assembleia geral nos ter-
+1.º grau, todas as pessoas que, preenchendo os requisitos mos definidos nos estatutos e, quando esta não for convo-
+e condições previstos no presente Código, na legislação cada, requerer a convocação judicial;
+complementar aplicável aos diversos ramos do sector f) Participar nas atividades de educação e formação
+cooperativo e nos estatutos da cooperativa, requeiram ao cooperativas;
+órgão de administração que as admita. g) Apresentar a sua demissão.
+Diário da República, 1.ª série — N.º 169 — 31 de agosto de 2015 6585
+2 — As decisões do órgão de administração sobre a 3 — Devem constar do processo escrito a indicação das
+matéria constante da alínea d) do número anterior são infrações, a sua qualificação, a prova produzida, a defesa
+recorríveis para a assembleia geral. do arguido e a proposta de aplicação da sanção.
+3 — Os órgãos competentes podem recusar a prestação 4 — Não pode ser suprimida a nulidade resultante de:
+de informações quando esse facto ocasione violação de
+a) Falta de audiência do arguido;
+segredo imposto por lei.
+b) Insuficiente individualização das infrações imputadas
+ao arguido;
+Artigo 22.º c) Falta de referência aos preceitos legais, estatutários
+ou regulamentares, violados;
+Deveres dos cooperadores
+d) Omissão de quaisquer diligências essenciais para a
+1 — Os cooperadores devem respeitar os princípios descoberta da verdade.
+cooperativos, as leis, os estatutos da cooperativa e os res-
+petivos regulamentos internos. 5 — A aplicação das sanções referidas nas alíneas a),
+2 — Os cooperadores devem ainda: b) e c) do n.º 1 compete ao órgão de administração, com
+admissibilidade de recurso para a assembleia geral.
+a) Tomar parte nas assembleias gerais;
+6 — A aplicação das sanções referidas nas alíneas d)
+b) Aceitar e exercer os cargos sociais para os quais e e) do n.º 1 compete à assembleia geral.
+tenham sido eleitos, salvo motivo justificado de escusa; 7 — A aplicação da sanção prevista na alínea c) do n.º 1
+c) Participar nas atividades da cooperativa e prestar o tem como limite um ano.
+trabalho ou serviço que lhes competir, nos termos estabe-
+lecidos nos estatutos; Artigo 26.º
+d) Efetuar os pagamentos previstos no presente Código,
+nos estatutos e nos regulamentos internos; Exclusão
+e) Cumprir quaisquer outras obrigações que resultem 1 — A exclusão de um membro tem de ser fundada em
+dos estatutos da cooperativa. violação grave e culposa prevista:
+a) No presente código;
+Artigo 23.º
+b) Na legislação complementar aplicável ao respetivo
+Responsabilidade dos cooperadores ramo do sector cooperativo;
+c) Nos estatutos da cooperativa ou nos seus regulamen-
+A responsabilidade dos cooperadores é limitada ao
+tos internos.
+montante do capital social subscrito, sem prejuízo de
+os estatutos da cooperativa poderem determinar que a
+2 — Quando a causa de exclusão consista no atraso de
+responsabilidade dos cooperadores seja ilimitada, ou pagamento de encargos, tal como estiver fixado nos esta-
+ainda limitada em relação a uns e ilimitada quanto aos tutos, torna -se dispensável o processo previsto no n.º 2 do
+outros. artigo anterior, sendo, neste caso, obrigatório o aviso prévio,
+a enviar para o domicílio do faltoso, sob registo, com indi-
+Artigo 24.º cação do período em que pode regularizar a sua situação.
+3 — A proposta de exclusão é fundamentada e notificada
+Demissão
+por escrito ao arguido, com uma antecedência de, pelo
+1 — Os cooperadores podem solicitar a sua demissão menos, sete dias, em relação à data da assembleia geral
+nas condições estabelecidas nos estatutos, ou, no caso que sobre ela delibera.
+de estes serem omissos, no termo do exercício social, 4 — A exclusão deve ser deliberada no prazo máximo
+por escrito, com pré- aviso de 30 dias, sem prejuízo da de um ano a partir da data em que algum dos titulares do
+responsabilidade pelo cumprimento das suas obrigações órgão de administração tomou conhecimento do facto que
+como membros da cooperativa. a permite.
+2 — O incumprimento do período de pré -aviso de 5 — Da deliberação da assembleia geral que decida a
+30 dias determina que o pedido de demissão só se torne exclusão cabe recurso para os tribunais.
+6 — Ao membro da cooperativa excluído aplica -se o
+eficaz no termo do exercício social seguinte.
+disposto na parte final do n.º 1 do artigo 89.º
+3 — Os estatutos não podem suprimir o direito de de-
+missão, mas podem limitá -lo, estabelecendo regras e con-
+dições para o seu exercício.
+CAPÍTULO IV
+Artigo 25.º Órgãos das cooperativas
+Regime disciplinar
+SECÇÃO I
+1 — Podem ser aplicadas aos cooperadores as seguintes
+sanções: Princípios Gerais
+a) Repreensão;
+Artigo 27.º
+b) Multa;
+c) Suspensão temporária de direitos; Órgãos
+d) Perda de mandato;
+1 — São órgãos das cooperativas:
+e) Exclusão.
+a) A assembleia geral;
+2 — A aplicação de qualquer sanção prevista no número b) O órgão de administração;
+anterior é sempre precedida de processo escrito. c) Os órgãos de fiscalização.
+6586 Diário da República, 1.ª série — N.º 169 — 31 de agosto de 2015
+2 — Os estatutos podem ainda consagrar outros órgãos, Artigo 30.º
+bem como dar poderes à assembleia geral ou ao órgão de
+Perda de mandato
+administração, para constituírem comissões especiais, de
+duração limitada, destinadas ao desempenho de tarefas São causa de perda de mandato dos titulares dos órgãos
+determinadas. das cooperativas:
+3 — Quando neste Código são referidos conjuntamente
+a) Condenação por insolvência culposa;
+os órgãos das cooperativas em termos que impliquem que
+b) A condenação pelos crimes de insolvência dolosa/cul-
+eles são integrados por um número limitado de titulares,
+posa ou negligente/ fortuita da cooperativa, crimes contra
+entende -se que a menção não abrange a assembleia geral
+o sector público ou contra o sector cooperativo e social,
+no seu todo, mas apenas a respetiva mesa.
+designadamente pela apropriação de bens do sector coo-
+perativo e social e por administração danosa em unidade
+Artigo 28.º
+económica nele integrada;
+c) Por violação grave dos deveres funcionais.
+Estrutura da administração e fiscalização
+1 — A administração e fiscalização da cooperativa po-
+Artigo 31.º
+dem ser estruturadas segundo uma das seguintes moda-
+lidades: Incompatibilidades
+a) Conselho de administração e conselho fiscal; 1 — Nenhum cooperador pode ser simultaneamente
+titular da mesa da assembleia geral, do órgão de admi-
+b) Conselho de administração com comissão de audi-
+nistração, do órgão de fiscalização, ou dos outros órgãos
+toria e revisor oficial de contas;
+eletivos estatutariamente previstos.
+c) Conselho de administração executivo, conselho geral
+2 — Os cônjuges e as pessoas que vivam em união de
+e de supervisão e revisor oficial de contas.
+facto não podem ser eleitos para o mesmo órgão social de
+cooperativas com mais de 20 membros ou ser simultanea-
+2 — Nos casos previstos na lei, em vez de conselho de
+mente titulares do órgão de administração e do órgão de
+administração ou de conselho de administração executivo
+fiscalização.
+pode haver um só administrador e em vez do conselho
+3 — Sendo o cooperador eleito pessoa coletiva, a in-
+fiscal pode haver um fiscal único.
+compatibilidade prevista no n.º 1 refere- se às pessoas sin-
+3 — Nas cooperativas que se estruturem segundo a
+gulares designadas para o exercício dos cargos sociais.
+modalidade prevista na alínea a) do n.º 1 e que estejam
+legalmente obrigadas à certificação legal de contas, é obri-
+Artigo 32.º
+gatória a existência de um revisor oficial de contas que não
+seja membro do conselho fiscal. Funcionamento dos órgãos
+4 — As cooperativas com administrador único não po-
+1 — Em todos os órgãos da cooperativa, o respetivo
+dem seguir a modalidade prevista na alínea b) do n.º 1.
+presidente tem voto de qualidade.
+2 — Nenhum órgão da cooperativa pode funcionar sem
+Artigo 29.º
+que estejam preenchidos, pelo menos, metade dos seus lu-
+Eleição dos titulares dos órgãos sociais gares, devendo proceder -se, no caso contrário e no prazo
+máximo de um mês, ao preenchimento das vagas verificadas,
+1 — Os titulares dos órgãos sociais são eleitos em as-
+sem prejuízo de estas serem ocupadas por titulares suplentes,
+sembleia geral de entre os cooperadores, salvo o disposto
+sempre que os mesmos estejam previstos nos estatutos.
+nos n.os 7 e 8.
+3 — As decisões dos órgãos eletivos da cooperativa são
+2 — Os titulares dos órgãos sociais são eleitos por um
+tomadas por maioria simples com a presença de mais de
+período de quatro anos civis, contando -se como completo
+metade dos seus titulares efetivos.
+o ano civil no qual se realiza a eleição.
+4 — As votações respeitantes a eleições dos órgãos
+3 — Em caso de vacatura do cargo, o cooperador ou
+da cooperativa ou a assuntos de incidência pessoal dos
+membro investidor designado para o preencher completa
+cooperadores realizam -se por voto secreto, podendo a
+o mandato.
+legislação complementar aplicável aos diversos ramos do
+4 — O presidente do órgão de administração só pode sector cooperativo, ou os estatutos, prever outros casos em
+ser eleito para três mandatos consecutivos. que este modo de escrutínio seja obrigatório.
+5 — O disposto no número anterior não abrange os 5 — É sempre lavrada ata das reuniões de qualquer
+mandatos já exercidos ou os que estão em curso. órgão das cooperativas, a qual é obrigatoriamente assinada
+6 — Sem prejuízo da regra referida no n.º 4, os estatutos por quem exercer as funções de presidente
+podem limitar o número de mandatos consecutivos para 6 — Das deliberações da assembleia geral cabe recurso
+a mesa da assembleia geral, para os órgãos de adminis- para os tribunais.
+tração e fiscalização e para quaisquer outros órgãos que
+consagrem.
+SECÇÃO II
+7 — O revisor oficial de contas é eleito pela assembleia
+geral, em simultâneo com o órgão de fiscalização, com um Assembleia Geral
+mandato da mesma duração.
+8 — Os membros investidores podem ser eleitos em Artigo 33.º
+conformidade com a alínea f) do n.º 4 do artigo 20.º, não
+Definição, composição e deliberações da assembleia geral
+podendo em caso algum, representar mais de 25 % do
+número de elementos efetivos que integram o órgão para 1 — A assembleia geral é o órgão supremo da coope-
+o qual são eleitos. rativa, sendo as suas deliberações, tomadas nos termos
+Diário da República, 1.ª série — N.º 169 — 31 de agosto de 2015 6587
+legais e estatutários, obrigatórias para os restantes órgãos é publicada num órgão de comunicação social escrita,
+da cooperativa e para todos os seus membros. preferentemente do distrito, da região administrativa ou
+2 — Participam na assembleia geral todos os coope- da região autónoma em que a cooperativa tenha sua sede
+radores e membros investidores no pleno gozo dos seus e que tenha uma periodicidade máxima quinzenal.
+direitos. 3 — Nas cooperativas com menos de 100 membros, a
+3 — Os estatutos da cooperativa podem prever assem- publicação prevista no número anterior é substituída por
+bleias gerais de delegados, os quais são eleitos nos termos envio da convocatória a todos os cooperadores por via
+do artigo 44.º do presente Código. postal registada ou entregue pessoalmente por protocolo,
+ou ainda, em relação aos membros que comuniquem pre-
+Artigo 34.º viamente o seu consentimento, por envio através de correio
+eletrónico com recibo de leitura.
+Sessões ordinárias e extraordinárias da assembleia geral
+4 — Nas cooperativas com 100 ou mais membros, a
+1 — A assembleia geral reúne em sessões ordinárias e publicação prevista no n.º 2 é facultativa se a convocatória
+extraordinárias. for enviada a todos os cooperadores nos termos previstos
+2 — A assembleia geral ordinária reúne obrigatoria- no número anterior.
+mente duas vezes em cada ano, uma até 31 de março, para 5 — A convocatória é sempre afixada nos locais em
+apreciação e votação das matérias referidas nas alíneas b) que a cooperativa tenha a sua sede ou outras formas de
+e c) do artigo 38.º deste Código, e outra até 31 de dezem- representação social.
+bro, para apreciação e votação das matérias referidas na 6 — A convocatória da assembleia geral extraordinária
+alínea d) do mesmo artigo. deve ser feita no prazo de quinze dias após o pedido ou
+3 — Sem prejuízo de a legislação complementar de requerimento, previstos no n.º 3 do artigo 34.º, devendo a
+cada ramo ou de os estatutos poderem dispor de maneira reunião realizar -se no prazo máximo de trinta dias, conta-
+diferente, a assembleia geral extraordinária reúne quando dos da data da receção do pedido ou requerimento.
+convocada pelo presidente da mesa, por sua iniciativa, a
+pedido do órgão de administração ou de fiscalização, ou a Artigo 37.º
+requerimento de, pelo menos, cinco por cento dos membros
+Quórum
+da cooperativa, num mínimo de três.
+1 — A assembleia geral reúne à hora marcada na con-
+Artigo 35.º vocatória, se estiver presente mais de metade dos coope-
+radores com direito de voto, ou seus representantes devi-
+Mesa da assembleia geral
+damente credenciados.
+1 — Salvo disposição estatutária em sentido diverso, a 2 — Se, à hora marcada para a reunião, não se verificar
+mesa da assembleia geral é constituída por um presidente o número de presenças previsto no número anterior e os
+e por um vice -presidente. estatutos não dispuserem de outro modo, a assembleia
+2 — Ao presidente incumbe: reúne, com qualquer número de cooperadores, uma hora
+depois.
+a) Convocar a assembleia geral;
+3 — No caso de a convocação da assembleia geral ser
+b) Presidir à assembleia geral e dirigir os trabalhos;
+feita em sessão extraordinária e a requerimento dos coope-
+c) Verificar as condições de elegibilidade dos candidatos
+radores, a reunião só se efetua se nela estiverem presentes,
+aos órgãos da cooperativa;
+pelo menos, três quartos dos requerentes.
+d) Conferir posse aos cooperadores eleitos para os ór-
+gãos da cooperativa.
+Artigo 38.º
+3 — Nas suas faltas e impedimentos, o presidente é Competência da assembleia geral
+substituído pelo vice -presidente.
+É da competência exclusiva da assembleia geral:
+4 — Na falta de qualquer dos membros da mesa da as-
+sembleia geral, compete a esta eleger os respetivos substi- a) Eleger e destituir os titulares dos órgãos da coopera-
+tutos, de entre os cooperadores presentes, os quais cessarão tiva, incluindo o revisor oficial de contas;
+as suas funções no termo da reunião. b) Apreciar e votar anualmente o relatório de gestão e
+5 — É causa de destituição do presidente da mesa da documentos de prestação de contas, bem como o parecer
+assembleia geral a não convocação desta nos casos em que do órgão de fiscalização;
+a isso esteja obrigado. c) Apreciar a certificação legal de contas, quando a
+6 — É causa de destituição de qualquer dos membros houver;
+da mesa a não comparência sem motivo justificado a, pelo d) Apreciar e votar o orçamento e o plano de atividades
+menos, três sessões seguidas ou seis interpoladas. para o exercício seguinte;
+e) Fixar as taxas dos juros a pagar aos membros da
+Artigo 36.º cooperativa;
+f) Aprovar a forma de distribuição dos excedentes;
+Convocatória da assembleia geral
+g) Alterar os estatutos, bem como aprovar e alterar os
+1 — A assembleia geral é convocada pelo presidente regulamentos internos;
+da mesa, ou nos casos especiais previstos na lei, pela co- h) Aprovar a fusão e a cisão da cooperativa;
+missão de auditoria, pelo conselho geral e de supervisão, i) Aprovar a dissolução voluntária da cooperativa;
+ou pelo conselho fiscal, com, pelo menos, 15 dias de an- j) Aprovar a filiação da cooperativa em uniões, federa-
+tecedência. ções e confederações;
+2 — A convocatória, que contém a ordem de trabalhos k) Deliberar sobre a exclusão de cooperadores e sobre
+da assembleia, bem como o dia, a hora e o local da reunião, a destituição dos titulares dos órgãos sociais, e ainda fun-
+6588 Diário da República, 1.ª série — N.º 169 — 31 de agosto de 2015
+cionar como instância de recurso, quer quanto à admissão i), j) e m) do artigo 38.º cada cooperador dispõe, somente,
+ou recusa de novos membros, quer em relação às sanções de um voto.
+aplicadas pelo órgão de administração; 5 — Na circunstância de membros investidores, nos
+l) Fixar a remuneração dos titulares dos órgãos sociais termos previstos no artigo 20.º, pode ser atribuído voto
+da cooperativa, quando os estatutos o não impedirem; plural, em condições e critérios a fixar pelos estatutos.
+m) Deliberar sobre a proposição de ações da coope- 6 — Sem prejuízo do disposto no número anterior, ne-
+rativa contra os administradores e titulares do órgão nhum membro investidor pode ter direitos de voto supe-
+de fiscalização, bem como a desistência e a transação riores a 10 % do total de votos dos cooperadores.
+nessas ações; 7 — Os membros investidores não podem, no total, ter
+n) Apreciar e votar as matérias especialmente previstas direitos de voto superiores a 30 % do total de votos dos
+neste Código, na legislação complementar aplicável ao cooperadores.
+respetivo ramo do sector cooperativo ou nos estatutos. 8 — É aplicável ao voto dos membros investidores, o
+disposto no n.º 4 do presente artigo.
+Artigo 39.º
+Artigo 42.º
+Deliberações
+Voto por correspondência
+São nulas todas as deliberações tomadas sobre matérias
+que não constem da ordem de trabalhos fixada na con- 1 — É admitido o voto por correspondência, sob a con-
+vocatória, salvo se, estando presentes ou representados dição de o seu sentido ser expressamente indicado em
+devidamente todos os membros da cooperativa, no pleno relação ao ponto ou pontos da ordem de trabalhos e de os
+gozo dos seus direitos, concordarem, por unanimidade, estatutos regularem o seu exercício, a forma de verificar a
+com a respetiva inclusão, ou se incidir sobre a matéria sua autenticidade e de assegurar a sua confidencialidade.
+constante do n.º 3 do artigo 78.º 2 — Os votos emitidos por correspondência valem
+como votos nulos em relação a propostas de deliberação
+Artigo 40.º apresentadas ulteriormente à emissão do voto.
+Votação
+Artigo 43.º
+1 — Nas assembleias gerais das cooperativas de pri-
+Voto por representação
+meiro grau, cada cooperador dispõe de um voto, qualquer
+que seja a sua participação no respetivo capital social. 1 — É admitido o voto por representação, devendo o
+2 — É exigida maioria qualificada de, pelo menos, mandato, apenas atribuível a outro cooperador ou a fa-
+dois terços dos votos expressos na aprovação das maté- miliar maior do mandante, constar de documento escrito
+rias constantes das alíneas g), h), i), j), e m) do artigo 38.º e datado dirigido ao presidente da mesa da assembleia
+deste Código ou de quaisquer outras para cuja votação os geral, cabendo aos estatutos assegurar a autenticidade do
+estatutos prevejam uma maioria qualificada. instrumento de representação.
+3 — No caso da alínea i) do artigo 38.º, a dissolução não 2 — Cada cooperador só pode representar um outro
+tem lugar se, pelo menos, o número mínimo de membros membro da cooperativa, salvo se os estatutos previrem
+referido no artigo 11.º se declarar disposto a assegurar a número superior.
+permanência da cooperativa, qualquer que seja o número
+de votos contra. Artigo 44.º
+Assembleias sectoriais
+Artigo 41.º
+1 — Os estatutos podem prever a realização de assem-
+Voto plural
+bleias sectoriais, quando as cooperativas o considerem
+1 — Os estatutos podem prever a atribuição de voto conveniente, quer por causa das suas atividades, quer em
+plural nas assembleias gerais de primeiro grau, desde que virtude da sua área geográfica.
+a cooperativa: 2 — O número de delegados à assembleia geral a eleger
+em cada assembleia sectorial é estabelecido, conforme dis-
+a) Possua pelo menos 20 cooperadores;
+posto nos estatutos, em função do número de cooperadores
+b) Não seja uma cooperativa de produção operária, de
+ou do volume de atividade de cada secção ou de ambos.
+artesanato, de pescas, de consumo ou de solidariedade
+3 — O número de delegados à assembleia geral a eleger
+social.
+por cada assembleia sectorial deve ser anualmente apurado
+pela direção, nos termos do número anterior.
+2 — Os estatutos só podem estabelecer que o voto plural
+4 — Aplicam -se às assembleias sectoriais, o disposto
+seja atribuído em função da atividade do cooperador na
+nos artigos 33.º a 43.º, com as necessárias adaptações.
+cooperativa.
+3 — O número de votos atribuído a cada cooperador ou
+membro investidor, nos termos dos números anteriores, SECÇÃO III
+tem de possuir os seguintes limites:
+Conselho de Administração
+a) Três, caso a cooperativa tenha até 50 cooperadores;
+b) Cinco, caso a cooperativa tenha mais de 50 coope- Artigo 45.º
+radores.
+Composição
+4 — Não obstante a existência de voto plural nos estatu- 1 — Nas cooperativas com mais de vinte membros,
+tos, na votação das matérias constantes das alíneas g), h), o conselho de administração é composto por um presi-
+Diário da República, 1.ª série — N.º 169 — 31 de agosto de 2015 6589
+dente e dois vogais, um dos quais substitui o presidente h) Manter a regularidade dos livros, registos contabilís-
+nos seus impedimentos e faltas, quando não houver vice- ticos e documentos que lhes servem de suporte.
+-presidente.
+2 — Nas cooperativas que tenham até vinte membros, Artigo 48.º
+os estatutos podem prever que a administração seja asse-
+Reuniões
+gurada por um único administrador, que designa quem o
+substitui nas suas faltas e impedimentos. 1 — O conselho de administração reúne ordinaria-
+3 — Os estatutos podem alargar a composição do con- mente pelo menos uma vez por mês, convocado pelo pre-
+selho de administração assegurando que o número dos seus sidente.
+titulares seja sempre ímpar. 2 — O conselho de administração reúne extraordi-
+4 — Aplicam -se ao titular único do conselho de ad- nariamente sempre que o presidente o convoque, por
+ministração as disposições relativas a este órgão que não sua iniciativa ou a pedido da maioria dos seus membros
+pressuponham a pluralidade de titulares. efetivos.
+3 — O conselho de administração só pode tomar de-
+Artigo 46.º liberações com a presença de mais de metade dos seus
+membros efetivos.
+Deveres dos titulares do órgão de administração
+4 — Os membros suplentes, quando os estatutos pre-
+1 — No exercício do cargo, os administradores devem: virem a sua existência, poderão assistir e participar nas
+reuniões do Conselho de Administração, sem direito de
+a) Praticar os atos necessários à defesa dos interesses da
+voto.
+cooperativa e dos cooperadores, bem como à salvaguarda
+5 — Os membros do conselho fiscal podem assistir às
+dos princípios cooperativos;
+reuniões do conselho de administração.
+b) Usar a diligência exigível ao exercício das suas fun-
+ções, designadamente no acompanhamento da evolução
+Artigo 49.º
+económico -financeira da cooperativa e na preparação ade-
+quada das decisões. Forma de obrigar a cooperativa
+Caso os estatutos sejam omissos, a cooperativa fica
+2 — Aos administradores da cooperativa é vedado:
+obrigada com as assinaturas de dois dos administradores,
+a) Negociar, por conta própria, diretamente ou por inter- salvo quanto aos atos de mero expediente, em que basta a
+posta pessoa, com a cooperativa, sem prejuízo da prática assinatura de um deles.
+dos atos inerentes à qualidade de cooperador;
+b) Exercer atividade concorrente com a da cooperativa, Artigo 50.º
+salvo mediante autorização da assembleia geral;
+Delegação de poderes
+c) Aproveitar oportunidades de negócio da cooperativa
+em benefício próprio, salvo autorização da assembleia 1 — Salvo cláusula estatutária em sentido diverso, o
+geral. conselho de administração pode delegar poderes de ad-
+ministração para a prática de certas categorias de atos em
+3 — Os deveres prescritos nos números anteriores qualquer um dos seus membros.
+são aplicáveis aos titulares dos órgãos de fiscalização da 2 — O conselho de administração pode delegar em
+cooperativa. algum ou alguns dos seus membros ou em mandatários
+poderes de representação da cooperativa em ato deter-
+Artigo 47.º minado.
+3 — As matérias relativas à admissão, demissão e apli-
+Competência
+cação de sanções aos cooperadores são indelegáveis.
+O conselho de administração é o órgão de adminis-
+tração e representação da cooperativa incumbindo- lhe,
+SECÇÃO IV
+designadamente:
+Conselho Fiscal
+a) Elaborar anualmente e submeter ao parecer dos órgãos
+de fiscalização e à apreciação e aprovação da assembleia
+Artigo 51.º
+geral o relatório de gestão e os documentos de prestação
+de contas, bem como o plano de atividades e o orçamento Composição
+para o ano seguinte;
+1 — A fiscalização das cooperativas que adotem a
+b) Executar o plano de atividades anual;
+modalidade prevista na alínea a) do n.º 1 do artigo 28.º
+c) Atender as solicitações dos órgãos de fiscalização
+compete:
+nas matérias da competência destes;
+d) Deliberar sobre a admissão de novos membros e a) Nas cooperativas com mais de 20 cooperadores, a
+sobre a aplicação de sanções previstas neste Código, na um conselho fiscal composto por um presidente e dois
+legislação complementar aplicável aos diversos ramos do vogais;
+sector cooperativo e nos estatutos, dentro dos limites da b) Nas cooperativas que tenham até vinte cooperadores,
+sua competência; por um único titular;
+e) Velar pelo respeito da lei, dos estatutos, dos regulamen- c) Nas cooperativas legalmente obrigadas à certificação
+tos internos e das deliberações dos órgãos da cooperativa; legal de contas, a um conselho fiscal composto por um
+f) Contratar e gerir o pessoal necessário às atividades presidente e dois vogais, e a um revisor oficial de contas
+da cooperativa; ou a uma sociedade de revisores oficiais de contas, que
+g) Representar a cooperativa em juízo e fora dele; não sejam membros do conselho fiscal.
+6590 Diário da República, 1.ª série — N.º 169 — 31 de agosto de 2015
+2 — Os estatutos podem alargar a composição do con- 2 — O conselho fiscal reúne extraordinariamente sem-
+selho fiscal, assegurando sempre que o número dos seus pre que o presidente o convocar, por sua iniciativa ou a
+membros seja ímpar e podendo também prever a existência pedido da maioria dos seus membros efetivos.
+de membros suplentes. 3 — Os membros suplentes do conselho fiscal, quando
+3 — Aplicam -se ao fiscal único as disposições relativas os estatutos previrem a sua existência, podem assistir e par-
+a este órgão, salvo as que pressuponham a pluralidade de ticipar nas reuniões deste conselho, sem direito de voto.
+titulares.
+Artigo 55.º
+Artigo 52.º
+Quórum
+Deveres dos titulares do conselho fiscal
+1 — O conselho fiscal só pode tomar deliberações com
+1 — Os titulares do conselho fiscal têm o dever de: a presença de mais de metade dos seus efetivos.
+2 — As deliberações do conselho fiscal são tomadas
+a) Assistir às reuniões da assembleia geral em que se
+por maioria, devendo os membros que com elas não con-
+apreciam as contas do exercício e bem assim às reuniões
+cordarem fazer inscrever na ata os motivos da sua dis-
+do órgão de administração para que o presidente os con-
+cordância.
+voque;
+b) Exercer fiscalização conscienciosa e imparcial;
+c) Guardar segredo dos factos e informações de que SECÇÃO V
+tomem conhecimento em razão das suas funções;
+Comissão de auditoria
+d) Registar por escrito e dar conhecimento ao órgão de
+administração das verificações, fiscalizações e diligências
+Artigo 56.º
+que tenham feito e do resultado das mesmas;
+e) Informar, na primeira assembleia geral que se realize, Composição
+de todas as irregularidades e inexatidões por eles verifica-
+1 — A comissão de auditoria a que se refere a alínea b)
+das e bem assim se obtiveram os esclarecimentos de que
+do n.º 1 do artigo 28.º é composta por parte de membros
+necessitaram para o desempenho das suas funções.
+do conselho de administração.
+2 — A comissão de auditoria é composta pelo número
+2 — Os titulares do conselho fiscal não podem ímpar de membros fixado nos estatutos da cooperativa, no
+aproveitar -se, salvo autorização expressa da assem- mínimo de três membros efetivos.
+bleia geral, de segredos comerciais ou industriais de 3 — Aos titulares da comissão de auditoria são vedados
+que tenham tomado conhecimento no exercício das suas o exercício de funções executivas e de representação da
+funções. cooperativa em atos de natureza executiva.
+Artigo 53.º Artigo 57.º
+Competência Designação da comissão de auditoria
+Ao conselho fiscal compete, designadamente: 1 — Os titulares da comissão de auditoria são eleitos
+pela assembleia geral, em conjunto com os demais admi-
+a) Verificar o cumprimento da lei e dos estatutos;
+nistradores.
+b) Fiscalizar a administração da cooperativa;
+2 — As listas propostas para o conselho de adminis-
+c) Verificar a regularidade dos livros, registos contabi-
+tração devem discriminar os membros que se destinam a
+lísticos e documentos que lhes servem de suporte;
+integrar a comissão de auditoria.
+d) Verificar, quando o entenda como necessário, o saldo
+3 — Se a assembleia geral não o designar, a comissão
+de caixa e a existência de títulos e valores de qualquer
+de auditoria deve designar o seu presidente.
+espécie, o que faz constar das respetivas atas;
+e) Elaborar relatório sobre a ação fiscalizadora exer-
+Artigo 58.º
+cida durante o ano e emitir parecer sobre o relatório de
+gestão e documentos de prestação de contas, o plano de Deveres dos membros da comissão de auditoria
+atividades e o orçamento para o ano seguinte, em face do
+Os titulares da comissão de auditoria têm o dever de:
+parecer do revisor oficial de contas, nos casos do n.º 2 do
+artigo 70.º; a) Participar nas reuniões da comissão de auditoria;
+f) Requerer a convocação extraordinária da assembleia b) Assistir às reuniões da assembleia geral em que se
+geral, nos termos do n.º 3 do artigo 34.º; apreciam as contas do exercício e bem assim às reuniões
+g) Convocar a assembleia geral, quando o presidente da do órgão de administração para que o presidente os con-
+respetiva mesa o não faça, estando legalmente obrigado voque;
+a fazê -lo; c) Guardar segredo dos factos e informações de que
+h) Cumprir as demais atribuições previstas na lei ou tiverem conhecimento em razão das suas funções.
+nos estatutos.
+Artigo 59.º
+Artigo 54.º
+Reuniões da comissão de auditoria
+Reuniões
+1 — As reuniões da comissão de auditoria devem ter,
+1 — O conselho fiscal reúne ordinariamente, pelo me- pelo menos, uma periodicidade bimestral.
+nos, uma vez por trimestre, mediante convocatória do 2 — Às reuniões da comissão de auditoria é aplicável o
+presidente. disposto no artigo 54.º, com as devidas adaptações.
+Diário da República, 1.ª série — N.º 169 — 31 de agosto de 2015 6591
+Artigo 60.º reito de assistir às reuniões do conselho de administração
+executivo.
+Destituição de titulares da comissão de auditoria
+1 — A assembleia geral só pode destituir os titulares da Artigo 64.º
+comissão de auditoria desde que ocorra justa causa.
+Norma de remissão
+2 — Os titulares visados devem ser ouvidos na assem-
+bleia geral sobre os factos que lhes são imputados. Com as adaptações determinadas pelas competências
+3 — A destituição dos titulares da comissão de auditoria legalmente atribuídas ao conselho geral e de supervisão,
+implica a cessação de funções como membros do conselho é aplicável ao conselho de administração executivo o dis-
+de administração. posto nos artigos 45.º a 49.º
+Artigo 61.º
+SECÇÃO VII
+Norma de remissão
+Conselho geral e de supervisão
+À comissão de auditoria são aplicáveis os artigos 51.º
+a 54.º, com as devidas adaptações. Artigo 65.º
+Composição
+SECÇÃO VI
+O conselho geral e de supervisão a que se refere a alí-
+Conselho de administração executivo nea c) do n.º 1 do artigo 28.º é composto por um número
+ímpar de titulares fixado nos estatutos, mas sempre supe-
+Artigo 62.º rior ao número de titulares do conselho de administração
+executivo.
+Composição
+Artigo 66.º
+1 — Nas cooperativas que adotem a modalidade pre-
+vista na alínea c) do n.º 1 do artigo 28.º, o conselho de Competência
+administração executivo é composto:
+1 — É aplicável ao conselho geral e de supervisão o
+a) Nas cooperativas com mais de 20 membros, por um disposto no artigo 53.º
+presidente e dois vogais, um dos quais substitui o presi- 2 — Compete ainda ao conselho geral e de supervisão
+dente nos seus impedimentos e faltas, quando não houver representar a cooperativa nas relações com o conselho de
+vice -presidente; administração executivo.
+b) Nas cooperativas que tenham até 20 membros, por
+um administrador executivo, que designa quem o substitui Artigo 67.º
+nas suas faltas e impedimentos.
+Poderes de gestão
+2 — Os estatutos podem alargar a composição do conse- 1 — O conselho geral e de supervisão não tem poderes
+lho de administração executivo, assegurando que o número de gestão das atividades da cooperativa, sem prejuízo de
+dos seus titulares seja sempre ímpar. os estatutos poderem estabelecer que o conselho de ad-
+3 — Aplicam -se ao administrador executivo as dispo- ministração executivo deve obter prévio consentimento
+do conselho geral e de supervisão para a prática de certos
+sições relativas a este órgão, salvo as que pressuponham
+atos ou de certas categorias de atos.
+a pluralidade de titulares.
+2 — Sendo recusado o consentimento previsto no nú-
+mero anterior, o conselho de administração executivo pode
+Artigo 63.º
+submeter a divergência a decisão da assembleia geral,
+Relações do conselho da administração executivo devendo a decisão pela qual a assembleia geral dê o seu
+com o conselho geral e de supervisão consentimento ser tomada pela maioria enunciada no n.º 2
+1 — O conselho de administração executivo deve co- do artigo 40.º
+municar ao conselho geral e de supervisão:
+Artigo 68.º
+a) Pelo menos uma vez por ano, a política de gestão
+que tenciona seguir, bem como os factos e questões que Reuniões
+fundamentalmente determinaram as suas opções; 1 — O conselho geral e de supervisão reúne ordina-
+b) Trimestralmente, a situação da cooperativa e a evo- riamente, pelo menos, uma vez por trimestre, quando o
+lução da sua atividade; presidente o convocar.
+c) O relatório completo de gestão relativo ao exercício 2 — O conselho geral e de supervisão reúne extraordi-
+anterior, para efeitos de emissão de parecer a apresentar nariamente sempre que o presidente o convocar, por sua
+na assembleia geral. iniciativa ou a pedido da maioria dos seus titulares.
+3 — É aplicável ao conselho geral e de supervisão o
+2 — O conselho de administração executivo deve in- disposto no artigo 55.º
+formar o presidente do conselho geral e de supervisão
+sobre qualquer facto ou negócio que possa ter influência Artigo 69.º
+significativa na rendibilidade ou liquidez da cooperativa
+Norma de remissão
+e, de modo geral, sobre qualquer situação anormal.
+3 — O presidente do conselho geral e de supervisão Aplicam -se ao conselho geral e de supervisão as normas
+e um titular delegado designado por este órgão têm o di- do artigo 46.º
+6592 Diário da República, 1.ª série — N.º 169 — 31 de agosto de 2015
+SECÇÃO VIII rativa contra os administradores, salvo se os factos cons-
+titutivos da responsabilidade tiverem sido expressamente
+Revisor oficial de contas
+levados ao conhecimento dos membros da cooperativa
+antes da aprovação.
+Artigo 70.º
+5 — O parecer favorável do órgão de fiscalização ou
+Designação e funções consentimento deste não exoneram de responsabilidade
+os titulares da administração.
+1 — Nas cooperativas que se estruturem segundo as
+6 — A delegação de poderes do conselho de adminis-
+modalidades previstas na alínea a) do n.º 1 do artigo 28.º,
+tração em um ou mais mandatários não isenta de respon-
+que estejam legalmente obrigadas à certificação legal de
+sabilidade os titulares do conselho de administração, salvo
+contas, e nas alíneas b) e c) do n.º 1 do artigo 28.º, a as-
+o disposto no artigo 50.º deste Código.
+sembleia geral designa um revisor oficial de contas ou uma
+sociedade de revisores oficiais de contas.
+Artigo 72.º
+2 — O revisor oficial de contas exerce as seguintes
+funções: Diretores executivos, gerentes e outros mandatários
+a) Verificar a regularidade dos livros, registos contabi- Os diretores executivos, gerentes e outros mandatários
+lísticos e documentos que lhe servem de suporte; são responsáveis para com a cooperativa, pela violação
+b) Verificar, quando julgue conveniente e pela forma do mandato.
+que entenda adequada, a extensão da caixa e as existências Artigo 73.º
+de qualquer espécie dos bens ou valores pertencentes à
+cooperativa; Responsabilidade para com os credores da cooperativa
+c) Verificar a exatidão dos documentos de prestação 1 — Os administradores respondem para com os credo-
+de contas; res da cooperativa quando, pela inobservância de dispo-
+d) Verificar se as políticas contabilísticas e os critérios sições legais ou estatutárias destinadas à proteção destes,
+valorimétricos adotados pela cooperativa conduzem a uma o património se torne insuficiente para a satisfação dos
+correta avaliação do património e dos resultados. respetivos créditos.
+2 — Designadamente, os administradores são responsá-
+3 — A designação é feita para o período de mandato veis perante credores da cooperativa quando culposamente
+dos restantes órgãos sociais. o património desta se torne insuficiente em razão de:
+a) Distribuição pelos cooperadores da reserva legal;
+SECÇÃO IX
+b) Distribuição de outras reservas obrigatórias;
+Da responsabilidade civil pela administração e fiscalização c) Distribuição de excedentes fictícios.
+da cooperativa
+Artigo 74.º
+Artigo 71.º
+Responsabilidade para com terceiros
+Responsabilidade civil dos membros
+Os administradores respondem nos termos gerais para
+da administração para com a cooperativa
+com os cooperadores e terceiros pelos danos que direta-
+1 — Os administradores respondem para com a coope- mente lhes causarem no exercício das suas funções.
+rativa pelos danos a esta causados por atos ou omissões
+praticados com a preterição dos deveres legais ou estatu-
+Artigo 75.º
+tários, regulamentos internos e deliberações da assembleia
+geral salvo se provarem que atuaram sem culpa. Solidariedade
+2 — Os administradores são responsáveis, designada- 1 — A responsabilidade dos administradores é solidária.
+mente, pelos danos causados pelos seguintes atos: 2 — O direito de regresso existe na medida das res-
+a) Prática, em nome da cooperativa, de atos estranhos petivas culpas e das consequências que delas advierem,
+ao objeto ou aos interesses desta ou permitindo a prática presumindo -se iguais as culpas das pessoas responsáveis.
+de tais atos;
+b) Pagamento de importâncias não devidas pela coo- Artigo 76.º
+perativa;
+Responsabilidade de titulares do órgão de fiscalização
+c) Não cobrança de créditos que, por isso, hajam prescrito;
+d) Distribuição de excedentes fictícios que viole o pre- 1 — Os titulares de órgãos de fiscalização respondem
+sente Código, a legislação complementar aplicável aos nos termos aplicáveis das disposições anteriores.
+diversos ramos do sector cooperativo ou os estatutos; 2 — Os titulares de órgãos de fiscalização respondem
+e) Aproveitamento do respetivo mandato, com ou sem solidariamente com os administradores da cooperativa por
+utilização de bens ou créditos da cooperativa, em benefício atos ou omissões destes no desempenho do cargo, quando
+próprio ou de outras pessoas, singulares ou coletivas. o dano se não houvesse produzido se cumpridas as suas
+obrigações de fiscalização.
+3 — Não são responsáveis pelos danos resultantes de
+uma deliberação colegial os administradores que não te- Artigo 77.º
+nham participado, ou hajam votado vencidos, desde que
+Responsabilidade do revisor oficial de contas
+exarem em ata o seu voto.
+4 — A aprovação pela assembleia geral do relatório 1 — O revisor oficial de contas responde para com a
+de gestão e dos documentos de prestação de contas não cooperativa e os cooperadores pelos danos que lhes causar
+implica a renúncia aos direitos de indemnização da coope- com a sua conduta culposa, sendo aplicável o artigo 73.º
+Diário da República, 1.ª série — N.º 169 — 31 de agosto de 2015 6593
+2 — Os revisores oficiais de contas respondem para 3 — Sendo estipulada a responsabilidade de cooperado-
+com os credores da cooperativa nos termos previstos no res por dívidas da cooperativa, ela é subsidiária em relação
+artigo 71.º à cooperativa e solidária entre os responsáveis.
+Artigo 78.º Artigo 81.º
+Direito de ação Capital social
+1 — A ação de responsabilidade proposta pela coope- 1 — O capital social, resultante das entradas subscritas
+rativa depende de deliberação dos cooperadores devendo em cada momento, é variável.
+ser proposta no prazo de seis meses a contar da referida 2 — Salvo se for outro o mínimo fixado pela legislação
+deliberação. complementar aplicável a cada um dos ramos do sector coo-
+2 — A cooperativa é representada na ação pelo órgão de perativo, esse montante não pode ser inferior a 1.500 euros.
+administração ou pelos cooperadores que para esse efeito 3 — O capital social estatutário pode ser aumentado
+forem eleitos pela assembleia geral. por deliberação da assembleia geral, mediante proposta do
+3 — Na assembleia que aprecie os documentos de pres- órgão de administração, com a emissão de novos títulos de
+tação de contas, e mesmo que tais assuntos não constem da capital a subscrever pelos membros, ou por incorporação
+ordem da convocatória, podem ser tomadas decisões sobre de reservas não obrigatórias e cuja dotação não resulte de
+a ação de responsabilidade e sobre a destituição dos admi- operações com terceiros.
+nistradores que a assembleia considere responsáveis.
+4 — Aqueles cuja responsabilidade estiver em causa Artigo 82.º
+não podem votar nas decisões previstas nos números an-
+Títulos de capital
+teriores.
+1 — O capital social é representado por títulos de ca-
+pital, que têm um valor nominal de cinco euros ou um
+Artigo 79.º
+seu múltiplo.
+Ação de responsabilidade proposta por cooperadores 2 — Os títulos de capital são nominativos e devem
+conter as seguintes menções:
+1 — Pode ser proposta ação de responsabilidade contra
+os administradores da cooperativa, com vista à reparação a) A denominação da cooperativa;
+do prejuízo que a cooperativa tenha sofrido, desde que a b) O número do registo na cooperativa;
+cooperativa não tenha ela própria interposto essa ação. c) O valor;
+2 — Considera -se que a cooperativa não solicitou a d) A data de emissão;
+reparação do dano quando: e) O número, em série contínua;
+f) A assinatura de quem obriga a cooperativa;
+a) A assembleia geral deliberou não propor a ação de
+g) O nome e a assinatura do cooperador titular.
+responsabilidade dos administradores;
+b) Decorrido o prazo previsto no artigo anterior, a ação
+3 — Os títulos de capital podem ser titulados ou es-
+da cooperativa não foi proposta.
+criturais, aplicando -se aos títulos escriturais o disposto
+no título II do Código dos Valores Mobiliários, com as
+3 — Para que a ação de responsabilidade contra os ad-
+adaptações necessárias.
+ministradores da cooperativa possa ser proposta, tem de
+ser observada a percentagem mínima de dez por cento dos
+Artigo 83.º
+cooperadores.
+4 — Os cooperadores podem encarregar um ou algum Entrada mínima a subscrever por cada cooperador
+deles de os representar, para os efeitos do exercício do
+1 — A entrada mínima a subscrever por cada coope-
+direito previsto neste artigo.
+rador, no ato de admissão, deve corresponder ao valor
+5 — Na ação da cooperativa proposta nos termos dos
+mínimo previsto na legislação complementar aplicável a
+artigos anteriores, a cooperativa é chamada à causa por
+cada um dos ramos do setor cooperativo ou nos estatutos
+intermédio dos seus representantes.
+da cooperativa.
+6 — O disposto no presente artigo pode verificar -se
+2 — A entrada mínima não pode ser inferior ao equiva-
+independentemente do pedido de indemnização dos danos
+lente a três títulos de capital.
+individuais que tenham sido causados aos cooperadores.
+Artigo 84.º
+CAPÍTULO V
+Realização do capital
+Regime Económico 1 — O capital subscrito pode ser realizado em dinheiro,
+bens ou direitos.
+Artigo 80.º 2 — É possível o diferimento das entradas em dinheiro,
+nos termos e prazos mencionados no número seguinte,
+Responsabilidade
+desde que no momento da constituição da cooperativa
+1 — Só o património da cooperativa responde para com esteja integralmente realizado pelo menos 10 % do valor
+os credores pelas dívidas desta, salvo o disposto no número do capital social.
+seguinte. 3 — Mediante cláusula estatutária, pode ser diferida a
+2 — Cada cooperador limita a sua responsabilidade realização das entradas em dinheiro, devendo o pagamento
+ao montante do capital social subscrito, sem prejuízo de das entradas diferidas ser efetuado para datas certas ou ficar
+cláusula estatutária em sentido diverso. dependente de factos certos e determinados, podendo em
+6594 Diário da República, 1.ª série — N.º 169 — 31 de agosto de 2015
+qualquer caso, a prestação ser exigida a partir do momento 6 — O credor particular do cooperador não pode penho-
+em que se cumpra o período de cinco anos sobre a data da rar, para satisfação dos seus créditos, os títulos de capital
+constituição da cooperativa ou a deliberação de aumento de que o cooperador seja titular
+de capital por novas entradas.
+4 — O valor das entradas em espécie é fixado em as- Artigo 87.º
+sembleia de fundadores ou em assembleia geral mediante
+Aquisição de títulos de capital pela cooperativa
+relatório elaborado por revisor oficial de contas ou por uma
+sociedade de revisores oficiais de contas, sem interesses na A cooperativa só pode adquirir títulos representativos
+cooperativa, designado por decisão da assembleia geral, do seu próprio capital quando a aquisição seja feita a título
+na qual estão impedidos de votar os cooperadores que gratuito.
+efetuam as entradas.
+Artigo 88.º
+5 — O diferimento das entradas de capital, previstos nos
+n.os 2 e 3, não se aplica aos membros investidores.
+Remuneração dos títulos de capital
+1 — Mediante cláusula estatutária, podem ser pagos
+Artigo 85.º
+juros pelos títulos de capital.
+Contribuições em trabalho ou serviços 2 — Na hipótese prevista no número anterior, o mon-
+tante global dos juros não pode ser superior a 30 % dos
+Não podem ser emitidos títulos de capital em contra-
+resultados anuais líquidos.
+partida de contribuições em trabalho ou de prestação de
+serviços, sem prejuízo de a legislação aplicável a cada
+Artigo 89.º
+um dos ramos do sector cooperativo poder exigir para a
+aquisição da qualidade de cooperador uma contribuição Reembolso
+obrigatória de capital e de trabalho.
+1 — Em caso de reembolso dos títulos de capital, o
+cooperador que se demitir tem direito ao montante dos
+Artigo 86.º
+títulos de capital realizados segundo o seu valor nominal,
+Transmissão dos títulos de capital no prazo estabelecido pelos estatutos ou, supletivamente,
+no prazo máximo de um ano.
+1 — Os títulos de capital só são transmissíveis mediante
+2 — O valor nominal referido no número anterior é
+autorização do órgão de administração ou, se os estatutos
+acrescido dos juros a que o cooperador tiver direito rela-
+da cooperativa o impuserem, da assembleia geral, sob
+tivamente ao último exercício social, da quota -parte dos
+condição de o adquirente ou sucessor já ser cooperador
+excedentes e reservas não obrigatórias repartíveis, e de-
+ou, reunindo as condições de admissão exigidas, solicitar
+duzido, se for o caso, das perdas que lhe sejam imputáveis
+a sua admissão.
+reveladas no balanço do exercício no decurso do qual
+2 — O cooperador que pretenda transmitir os seus
+surgiu o direito ao reembolso.
+títulos de capital deve comunicá -lo, por escrito, ao ór-
+3 — Os estatutos podem prever que, quando num exer-
+gão de administração, devendo a recusa ou concessão
+cício económico o montante dos títulos de capital a reem-
+de autorização ser comunicada ao cooperador, no prazo
+bolsar supere uma determinada percentagem do montante
+máximo de 60 dias a contar do pedido, sob pena de essa
+do capital social que neles se estabeleça, o reembolso fique
+transmissão se tornar válida e eficaz, desde que o trans-
+dependente de uma decisão do órgão de administração.
+missário já seja cooperador ou reúna as condições de
+4 — A suspensão do reembolso deve ser fundamentada
+admissão exigidas.
+e sujeita a ratificação da assembleia geral.
+3 — A transmissão inter vivos dos títulos de capital
+opera -se:
+Artigo 90.º
+a) No caso dos titulados, através do endosso do tí-
+Contribuições que não integram o capital
+tulo, assinado pelo transmitente e adquirente e por quem
+social e outras formas de financiamento
+obriga a cooperativa, sendo averbada no livro de registos
+1 — Os estatutos da cooperativa podem exigir a rea-
+respetivo;
+lização de uma joia de admissão, pagável de uma só vez
+b) No caso dos escriturais, através do registo na conta
+ou em prestações.
+do adquirente, sendo averbada no livro de registos res-
+2 — O montante das joias reverte para reservas obriga-
+petivo.
+tórias, conforme constar dos estatutos, dentro dos limites
+da lei.
+4 — A transmissão mortis causa dos títulos de capital
+3 — A Assembleia Geral pode decidir outras formas
+opera -se através da apresentação de documento compro-
+de financiamento que não integram o capital social e que
+vativo da qualidade de herdeiro ou legatário, mediante o
+poderão assumir as modalidades de emissão de títulos de
+qual é averbado em seu nome:
+investimento ou de obrigações, ficando sujeitas ao regime
+a) No caso dos titulados, no respetivo livro de registo, constante dos artigos seguintes.
+devendo o título ser assinado por quem obriga a coopera-
+tiva e pelo herdeiro ou legatário; Artigo 91.º
+b) No caso dos escriturais, na conta do adquirente, sendo
+Títulos de investimento
+averbados no livro de registo respetivo.
+1 — As cooperativas podem emitir títulos de investi-
+5 — Não sendo admissível a transmissão mortis causa, mento, mediante decisão da assembleia geral que fixa com
+o herdeiro ou legatário tem direito ao reembolso dos títulos que objetivos e em que condições o órgão de administração
+de capital, nos termos previstos no artigo 89.º pode utilizar o respetivo produto.
+Diário da República, 1.ª série — N.º 169 — 31 de agosto de 2015 6595
+2 — Podem, nomeadamente, ser emitidos títulos de Artigo 94.º
+investimento que:
+Proteção especial dos interesses dos subscritores
+a) Confiram direito a uma remuneração anual, compreen- de títulos de investimento
+dendo uma parte fixa, calculada aplicando a uma fração
+1 — A assembleia geral pode decidir que os subscri-
+do valor nominal de cada título uma taxa predeterminada,
+tores de títulos reunidos para esse fim possam eleger um
+invariável ou reportada a um indicador de referência, e
+representante junto da cooperativa com direito a assistir
+uma parte variável, calculada em função dos resultados,
+às reuniões do órgão de fiscalização, sendo -lhe facultadas
+do volume de negócios ou de qualquer outro elemento da
+todas as informações a que têm direito os membros desse
+atividade da cooperativa;
+órgão.
+b) Confiram aos seus titulares o direito a um prémio
+2 — Uma vez tomada a deliberação referida no número
+de reembolso, quer fixo, quer dependente dos resultados
+anterior, os direitos por ela outorgados só podem ser extin-
+realizados pela cooperativa;
+tos com o consentimento expresso de todos os subscritores
+c) Apresentem juro e plano de reembolso variáveis em
+de títulos de investimento.
+função dos resultados;
+d) Sejam convertíveis em títulos de capital, desde que
+Artigo 95.º
+o seu titular reúna as condições de admissão legalmente
+exigidas para os membros produtores ou utilizadores; Obrigações
+e) Apresentem prémios de emissão.
+1 — As cooperativas podem também emitir obrigações,
+de acordo com as normas estabelecidas pelo Código das
+3 — Os títulos de investimento emitidos nos termos da
+Sociedades Comerciais para as obrigações emitidas por
+alínea a) do número anterior são reembolsados apenas em
+sociedades anónimas, cuja aplicação não ponha em causa
+caso de liquidação da cooperativa, e somente depois do
+os princípios cooperativos nem o disposto no presente
+pagamento de todos os outros credores da cooperativa, ou,
+Código.
+se esta assim o decidir, após terem decorrido pelo menos
+2 — Não são admitidas, nomeadamente, obrigações
+cinco anos sobre a sua realização, nas condições definidas
+que sejam convertíveis em títulos de capital ou que
+quando da emissão.
+confiram o direito a subscrever um ou vários títulos
+4 — Quaisquer títulos de investimento podem ser subs-
+de capital.
+critos por pessoas estranhas à cooperativa, mas os seus
+membros têm direito de preferência na subscrição de títulos
+Artigo 96.º
+de investimento convertíveis.
+5 — As cooperativas só podem adquirir títulos de in- Reserva legal
+vestimento próprios, a título gratuito.
+1 — É obrigatória a constituição de uma reserva legal
+6 — Os títulos de investimento das cooperativas são
+destinada a cobrir eventuais perdas de exercício.
+equiparados às obrigações das sociedades comerciais, na
+2 — Reverte para esta reserva, segundo a proporção que
+parte não regulada por este Código.
+for determinada nos estatutos ou, caso estes sejam omissos,
+pela assembleia geral, numa percentagem que não pode
+Artigo 92.º
+ser inferior a cinco por cento, o montante das joias e dos
+Emissões de títulos de investimento excedentes anuais líquidos.
+3 — Estas reversões deixam de ser obrigatórias desde
+1 — A assembleia geral que decidir a emissão de títulos
+que a reserva atinja um montante igual ao capital social
+de investimento fixa a taxa de juro e demais condições
+atingido pela cooperativa no exercício social.
+de emissão.
+4 — A reserva legal só pode ser utilizada para:
+2 — Os títulos de investimento são nominativos e trans-
+missíveis, nos termos da lei, e obedecem aos requisitos a) Cobrir a parte do prejuízo acusado no balanço do
+previstos no n.º 2 do artigo 91.º exercício que não possa ser coberto pela utilização de
+3 — Cabe à assembleia geral decidir se nela podem outras reservas;
+participar, embora sem direito a voto, os subscritores de b) Cobrir a parte dos prejuízos transitados do exercício
+títulos de investimento que não sejam membros da coo- anterior que não possa ser coberto pelo resultado do exer-
+perativa. cício nem pela utilização de outras reservas.
+4 — As cooperativas não podem emitir títulos de inves-
+timento que excedam a importância do capital realizado e 5 — Se os prejuízos do exercício forem superiores ao
+existente, nos termos do último balanço aprovado, acres- montante da reserva legal, a diferença pode, por decisão
+cido do montante do capital aumentado e realizado depois da assembleia geral, ser exigida aos cooperadores, propor-
+da data de encerramento daquele balanço. cionalmente às operações realizadas por cada um deles,
+5 — Não pode ser decidida uma emissão de títulos de sendo a reserva legal reconstituída até ao nível anterior em
+investimento enquanto não estiver subscrita e realizada que se encontrava antes da sua utilização para cobertura
+uma emissão anterior. de perdas.
+Artigo 93.º Artigo 97.º
+Subscrição pública de títulos Reserva para educação e formação cooperativas
+A emissão por subscrição pública dos títulos de inves- 1 — É obrigatória a constituição de uma reserva para
+timento deve ser precedida de uma auditoria externa à a educação cooperativa e a formação cultural e técnica
+cooperativa, sem prejuízo do regime legalmente previsto dos cooperadores, dos trabalhadores da cooperativa e da
+para esta modalidade de emissão. comunidade.
+6596 Diário da República, 1.ª série — N.º 169 — 31 de agosto de 2015
+2 — Revertem para esta reserva, na forma constante no 2 — Não pode proceder -se à distribuição de excedentes
+n.º 2 do artigo anterior: entre os cooperadores, nem criar reservas livres, antes de
+se terem compensado as perdas dos exercícios anteriores
+a) A parte das joias que não for afetada à reserva legal;
+ou, tendo -se utilizado a reserva legal para compensar es-
+b) A parte dos excedentes anuais líquidos provenientes
+sas perdas, antes de se ter reconstituído a reserva ao nível
+das operações com os cooperadores que for estabelecida
+anterior ao da sua utilização.
+pelos estatutos ou pela assembleia geral, numa percenta-
+gem que não pode ser inferior a um por cento;
+c) Os donativos e os subsídios que forem especialmente
+CAPÍTULO VI
+destinados à finalidade da reserva;
+d) Os resultados anuais líquidos provenientes das ope- Uniões, federações e confederações
+rações realizadas com terceiros que não forem afetados a
+outras reservas. Artigo 101.º
+3 — As formas de aplicação desta reserva são determi- Uniões, federações e confederações
+nadas pela assembleia geral.
+1 — As uniões, federações e confederações de coopera-
+4 — O órgão de administração deve integrar anual-
+tivas adquirem personalidade jurídica com o registo da sua
+mente no plano de atividades um plano de formação para
+constituição, aplicando -se -lhe, em tudo o que não estiver
+aplicação desta reserva.
+especificamente regulado neste capítulo, as disposições
+5 — Por decisão da assembleia geral, o órgão de admi-
+aplicáveis às cooperativas do primeiro grau.
+nistração de uma cooperativa pode entregar, no todo ou em
+2 — Sem prejuízo de as federações e confederações
+parte, o montante desta reserva a uma cooperativa de grau
+terem de preencher os requisitos necessários para serem
+superior, sob a condição desta prosseguir a finalidade da
+reconhecidas como representantes da parte do sector coo-
+reserva em causa e de ter um plano de atividades em que
+perativo que a cada uma corresponda, todas as estruturas
+aquela cooperativa seja envolvida.
+cooperativas de grau superior representam legitimamente
+6 — Por decisão da assembleia geral, pode igualmente
+as entidades que as integram, direta e indiretamente, e os
+ser afetada pelo órgão de administração a totalidade ou
+uma parte desta reserva a projetos de educação e formação respetivos membros.
+que, conjunta ou separadamente, impliquem a cooperativa
+em causa e: Artigo 102.º
+a) Outra ou outras cooperativas; Uniões
+b) Uma ou mais entidades da economia social;
+1 — As uniões de cooperativas resultam do agrupamento
+c) Uma ou mais pessoas coletivas de direito público.
+de, pelo menos, duas cooperativas do primeiro grau.
+2 — As uniões de cooperativas podem agrupar -se entre
+7 — A reserva de educação e formação cooperativas
+si e com cooperativas do primeiro grau, sob a forma de
+não responde pelas dívidas da cooperativa perante tercei-
+uniões.
+ros, mas apenas pelas obrigações contraídas no âmbito da
+atividade a que está adstrita.
+Artigo 103.º
+Artigo 98.º Competências das uniões
+Outras reservas As uniões têm finalidades de natureza económica, so-
+cial, cultural e de assistência técnica aos seus membros,
+1 — A legislação complementar aplicável aos diversos
+podendo, nos termos da lei e com observância dos princí-
+ramos do sector cooperativo ou os estatutos podem prever
+pios cooperativos, exercer qualquer atividade.
+a constituição de outras reservas, devendo, nesse caso,
+determinar o seu modo de formação, de aplicação e de
+Artigo 104.º
+liquidação.
+2 — Pode igualmente ser decidida em assembleia geral Direito de voto
+a constituição de outras reservas, aplicando -se o disposto
+1 — Os estatutos podem atribuir a cada uma das coope-
+na parte final do número anterior.
+rativas aderentes um número de votos determinado, quer
+em função do número dos seus cooperadores, quer em
+Artigo 99.º
+função de qualquer outro critério objetivo que, de acordo
+Insuscetibilidade de repartição com o princípio democrático, obtenha a aprovação maio-
+ritária dos membros da união.
+Todas as reservas obrigatórias, bem como as que resul-
+2 — O número de votos é anualmente apurado pela
+tem de excedentes provenientes de operações com tercei-
+assembleia geral que aprovar o relatório de gestão e as
+ros, são insuscetíveis de qualquer tipo de repartição entre
+contas do exercício do ano anterior.
+os cooperadores e membros investidores.
+Artigo 105.º
+Artigo 100.º
+Órgãos das uniões
+Distribuição de excedentes
+São órgãos das uniões de cooperativas os previstos
+1 — Os excedentes anuais líquidos, com exceção dos
+para as cooperativas de primeiro grau, com as seguintes
+provenientes de operações realizadas com terceiros, que
+adaptações:
+restarem depois do eventual pagamento de juros pelos
+títulos de capital e das reversões para as diversas reservas, a) A assembleia geral é constituída por titulares de ór-
+poderão retornar aos cooperadores. gão de administração ou por delegados das cooperativas
+Diário da República, 1.ª série — N.º 169 — 31 de agosto de 2015 6597
+filiadas, podendo os estatutos determinar que apenas um podendo, nos termos da lei e com observância dos prin-
+dos representantes possa usar da palavra e votar e sendo cípios cooperativos, exercer qualquer atividade, designa-
+a respetiva mesa eleita de entre os membros das coope- damente:
+rativas filiadas para um mandato de duração igual ao dos
+a) Representar, defender e promover os interesses das
+outros órgãos;
+organizações membros, os cooperadores membros destas
+b) Os órgãos de administração e de fiscalização têm
+e o sector cooperativo;
+natureza colegial e são compostos por pessoas singulares
+b) Prestar serviços de carácter económico e social aos
+membros das cooperativas filiadas.
+seus membros;
+c) Promover e incentivar a intercooperação entre os
+Artigo 106.º
+respetivos membros e os diversos ramos do sector coo-
+Federações perativo;
+d) Fomentar e promover a formação e educação coope-
+1 — As federações resultam do agrupamento de coope-
+rativas podendo gerir as reservas de educação e formação
+rativas ou simultaneamente de cooperativas e de uniões que
+dos membros;
+pertençam ao mesmo ramo do sector cooperativo.
+e) Difundir os valores e princípios cooperativos e pro-
+2 — A legislação complementar pode prever a cons-
+mover o modelo cooperativo;
+tituição de federações dentro do mesmo ramo do sector
+f) Negociar e celebrar convenções coletivas de trabalho;
+cooperativo, nos termos do número anterior, que resultem
+g) Mediar a resolução de conflitos entre os seus mem-
+do agrupamento de membros que desenvolvam a mesma
+bros e entre estes e os cooperadores.
+atividade económica.
+3 — As federações de cooperativas só podem repre-
+sentar o respetivo ramo do sector cooperativo, quando
+CAPÍTULO VII
+fizerem prova de que possuem como membros mais de
+cinquenta por cento das cooperativas de primeiro grau Da fusão, cisão, transformação, dissolução
+definitivamente registadas do ramo correspondente ao e liquidação das cooperativas
+objeto social da federação.
+4 — No caso de ser necessário para o seu desenvol-
+SECÇÃO I
+vimento e havendo uma conexão relevante entre os seus
+objetivos: Fusão, cisão e transformação
+a) Podem fundir -se numa única federação, duas ou mais
+Artigo 109.º
+federações de ramos diferentes;
+b) Pode aderir a uma federação, desde que esta a aceite, Formas de fusão de cooperativas
+uma cooperativa do primeiro grau de um ramo diferente;
+1 — A fusão de cooperativas pode operar- se por criação
+c) Pode aderir a uma federação, desde que esta a aceite,
+de nova cooperativa e por incorporação.
+uma união que abranja cooperativas pertencentes a um
+2 — Verifica -se a fusão por criação de nova coopera-
+ramo diferente.
+tiva, quando duas ou mais cooperativas, com a simultâ-
+nea extinção da sua personalidade jurídica, constituem
+5 — É aplicável às federações de cooperativas, com
+uma nova cooperativa, assumindo a nova cooperativa
+as devidas adaptações, o disposto nos artigos 99.º a 101.º
+a totalidade dos direitos e obrigações das cooperativas
+deste Código.
+fundidas.
+Artigo 107.º 3 — Verifica -se a fusão por incorporação, quando uma
+ou mais cooperativas, em simultâneo com a extinção da sua
+Confederações
+personalidade jurídica, passam a fazer parte integrante de
+1 — As confederações de cooperativas resultam do
+uma outra cooperativa, que assume a totalidade dos direitos
+agrupamento, a nível nacional, de cooperativas de grau
+e obrigações das cooperativas incorporadas.
+superior, podendo, a título excecional, agrupar cooperativas
+4 — A fusão de cooperativas só pode ser validamente
+do primeiro grau, considerando- se representativas do sector
+efetivada por decisão de, pelo menos, dois terços dos
+cooperativo as que fizerem prova de que integram, pelo
+votos dos cooperadores presentes ou representados
+menos, cinquenta por cento das federações definitivamente
+em assembleia geral extraordinária convocada para
+registadas do ramo ou ramos correspondentes ao objeto
+esse fim.
+social da confederação.
+5 — Mediante prévio parecer favorável da Coopera-
+2 — É aplicável às confederações de cooperativas, com
+tiva António Sérgio para a Economia Social (CASES),
+as devidas adaptações, o disposto nos artigos 99.º a 102.º
+as cooperativas de grau superior podem requerer ju-
+deste Código.
+dicialmente a fusão por incorporação de uma ou mais
+3 — Os órgãos das confederações são os previstos para
+cooperativas numa terceira, que assume a totalidade
+as cooperativas do primeiro grau, sendo a mesa da assem-
+dos direitos e obrigações de cooperativas que naquelas
+bleia geral, o órgão de administração e o conselho fiscal
+estejam integradas ou com as quais tenham uma co-
+compostos por pessoas singulares membros das estruturas
+nexão relevante, quando ocorra alguma das seguintes
+cooperativas que integram a confederação.
+circunstâncias:
+Artigo 108.º a) Se verifique por um período superior a 12 meses a
+inexistência ou inatividade dos órgãos sociais, assim como
+Competências das federações e confederações
+a impossibilidade de os eleger;
+As federações e confederações têm finalidades de re- b) Sejam desenvolvidas de forma reiterada atividades
+presentação, de coordenação e de prestação de serviços, alheias ao objeto da cooperativa.
+6598 Diário da República, 1.ª série — N.º 169 — 31 de agosto de 2015
+Artigo 110.º 3 — Nos casos de impossibilidade insuperável da pros-
+secução do objeto ou de falta de coincidência entre o objeto
+Cisão de cooperativas
+efetivamente prosseguido e o objeto expresso nos estatutos,
+1 — Verifica -se a cisão de uma cooperativa sempre que bem como nos casos a que se refere a alínea d) do n.º 1,
+nesta se opere divisão dos seus membros e património, a dissolução é declarada em procedimento administrativo
+com a consequente criação de uma ou mais cooperativas de dissolução, instaurado a requerimento da cooperativa,
+novas. de qualquer cooperador ou seu sucessor, sem prejuízo do
+2 — A cisão é integral ou parcial, conforme simulta- disposto no n.º 2 do artigo 114.º
+neamente se verificar, ou não, a extinção da cooperativa 4 — Nos casos a que se referem as alíneas i), j) e k) do
+original. n.º 1, a dissolução é declarada em procedimento admi-
+3 — É aplicável à cisão de cooperativas o disposto no nistrativo de dissolução, instaurado oficiosamente pelo
+n.º 4 do artigo anterior. serviço de registo competente.
+Artigo 111.º Artigo 113.º
+Nulidade da transformação Processo de liquidação e partilha
+É nula a transformação de uma cooperativa em qualquer 1 — A dissolução da cooperativa, qualquer que seja o
+tipo de sociedade comercial, sendo também feridos de motivo, implica a nomeação de uma comissão liquidatá-
+nulidade os atos que contrariem ou iludam esta proibição ria, encarregada do processo de liquidação do respetivo
+legal. património.
+2 — A assembleia geral que deliberar a dissolução deve
+SECÇÃO II
+eleger a comissão liquidatária, a quem confere os poderes
+Dissolução e liquidação necessários para, dentro do prazo que lhe fixar, proceder
+à liquidação.
+Artigo 112.º 3 — Aos casos de dissolução previstos nas alíneas a) a
+e) e i) a k) do n.º 1 do artigo anterior é aplicável o regime
+Dissolução jurídico do procedimento de liquidação por via adminis-
+1 — As cooperativas dissolvem -se por: trativa de entidades comerciais.
+4 — Nos casos em que tenha ocorrido dissolução ad-
+a) Esgotamento do objeto, impossibilidade insuperável
+ministrativa promovida por via oficiosa, a liquidação é
+da sua prossecução ou falta de coincidência entre o objeto
+igualmente promovida oficiosamente pelo serviço de re-
+real e o objeto expresso nos estatutos;
+gisto competente.
+b) Decurso do prazo, se tiverem sido constituídas tem-
+5 — Ao caso de dissolução previsto na alínea g) do
+porariamente;
+n.º 1 do artigo anterior é aplicável, com as necessárias
+c) Verificação de qualquer outra causa extintiva prevista
+adaptações, o Código da Insolvência e da Recuperação
+nos estatutos;
+de Empresas.
+d) Diminuição do número de membros abaixo do
+6 — Aos casos de dissolução previstos na alínea h)
+mínimo legalmente previsto, por um período de tempo
+do n.º 1 do artigo anterior é aplicável, com as neces-
+superior a doze meses e desde que tal redução não seja
+sárias adaptações, o regime do processo de liquidação
+temporária ou ocasional;
+judicial de sociedades constante do Código do Processo
+e) Fusão por integração, por incorporação ou cisão in-
+Civil.
+tegral;
+7 — Feita a liquidação total, deve a comissão liquida-
+f) Decisão da assembleia geral;
+tária apresentar as contas à assembleia geral, ao serviço
+g) Decisão judicial transitada em julgado que declare a
+de registo competente ou ao tribunal, conforme os casos,
+insolvência da cooperativa;
+organizando, sob a forma de mapa, um projeto de partilha
+h) Decisão judicial transitada em julgado que verifique
+do saldo, nos termos do artigo seguinte.
+que a cooperativa não respeita no seu funcionamento os
+8 — A última assembleia geral, o serviço de registo
+princípios cooperativos, que utiliza sistematicamente meios
+competente ou o tribunal, conforme os casos, designam
+ilícitos para a prossecução do seu objeto ou que recorre
+quem deve ficar depositário dos livros, papéis e documen-
+à forma de cooperativa para alcançar indevidamente be-
+tos da cooperativa, os quais devem ser conservados pelo
+nefícios legais;
+prazo de cinco anos.
+i) Omissão de entrega da declaração fiscal de rendimen-
+tos durante dois anos consecutivos comunicada pela admi-
+Artigo 114.º
+nistração tributária ao serviço de registo competente;
+j) Comunicação da ausência de atividade efetiva veri- Destino do património em liquidação
+ficada nos termos da legislação tributária, efetuada pela
+1 — Uma vez satisfeitas as despesas decorrentes do
+administração tributária junto do serviço de registo com-
+próprio processo de liquidação, o saldo obtido por este é
+petente;
+aplicado, imediatamente e pela seguinte ordem, a:
+k) Comunicação da declaração oficiosa de cessação de
+atividade nos termos previstos na legislação tributária, a) Pagar os salários e as prestações devidas aos traba-
+efetuada pela administração tributária junto do serviço do lhadores da cooperativa;
+registo competente; b) Pagar os restantes débitos da cooperativa, incluindo
+o resgate dos títulos de investimento, das obrigações e
+2 — Nos casos de esgotamento do objeto e nos que se de outras prestações eventuais dos membros da coo-
+encontram previstos nas alíneas b), c), e) e f) do número perativa;
+anterior, a dissolução é imediata. c) Resgatar os títulos de capital.
+Diário da República, 1.ª série — N.º 169 — 31 de agosto de 2015 6599
+2 — O montante da reserva legal, estabelecido nos ter- b) Utilizem sistematicamente meios ilícitos para a pros-
+mos do artigo 96.º, que não tenha sido destinado a cobrir secução do seu objeto; ou
+eventuais perdas de exercício e não seja suscetível de apli- c) Recorram à forma de cooperativa para alcançar in-
+cação diversa, pode transitar com idêntica finalidade, para devidamente benefícios fiscais ou outros atribuídos por
+a nova entidade cooperativa que se formar na sequência de entidades públicas.
+fusão ou de cisão da cooperativa em liquidação.
+3 — Quando à cooperativa em liquidação não suceder 2 — A CASES deve requerer, junto do serviço de registo
+nenhuma entidade cooperativa nova, a aplicação do saldo competente, o procedimento administrativo de dissolução
+de reservas obrigatórias reverte para outra cooperativa, das cooperativas cuja atividade não coincida com o objeto
+preferencialmente do mesmo município, a determinar pela expresso nos estatutos
+federação ou confederação representativa da atividade 3 — As entidades que tomem as decisões indicadas nas
+principal da cooperativa. alíneas g) a k) do n.º 1 do artigo 112.º do presente Código
+4 — Às reservas constituídas nos termos do artigo 98.º devem comunicar à CASES, trimestralmente, a identifi-
+deste Código é aplicável, em matéria de liquidação, e no cação das cooperativas dissolvidas.
+caso de os estatutos nada disporem, o estabelecido nos
+números 2 e 3 deste artigo.
+CAPÍTULO IX
+CAPÍTULO VIII Disposições finais e transitórias
+Da Cooperativa António Sérgio para a Economia
+Artigo 119.º
+Social (CASES)
+Aplicação do Código Cooperativo às cooperativas existentes
+Artigo 115.º
+1 — As cláusulas estatutárias que regem as cooperativas
+Atribuições da CASES constituídas ao abrigo da legislação anterior à entrada em
+1 — Compete à Cooperativa António Sérgio para a vigor das alterações ao Código Cooperativo e que tenham
+Economia Social, abreviadamente designada por CASES, deixado por elas de vigorar consideram -se automatica-
+fiscalizar, nos termos da lei, a utilização da forma coopera- mente substituídas pelas novas disposições do Código
+tiva, com respeito pelos princípios cooperativos e normas Cooperativo aplicáveis, sem prejuízo das alterações que
+relativos à sua constituição e funcionamento. vierem a ser deliberadas pelos membros.
+2 — Incumbem ainda à CASES as atribuições e as com- 2 — As denominações em vigor dos órgãos sociais coo-
+petências previstas no respetivo Estatuto, no presente Có- perativos não necessitam obrigatoriamente de ser alteradas
+digo e na legislação complementar aplicável aos diversos para efeitos do presente Código.
+ramos do sector cooperativo.
+Artigo 120.º
+Artigo 116.º
+Benefícios fiscais e financeiros
+Atos de comunicação obrigatória Os benefícios fiscais e financeiros das cooperativas,
+As cooperativas estão obrigadas a remeter à CASES: previstos pela Constituição, são objeto de legislação au-
+tónoma.
+a) Cópia dos atos de constituição e de alteração dos
+estatutos, até 30 dias após o registo;
+Artigo 121.º
+b) Cópia dos relatórios anuais de gestão e dos docu-
+mentos anuais de prestação de contas, até 30 dias após a Contraordenações
+sua aprovação;
+1 — Constitui contraordenação, punível com coima de
+c) Cópia do balanço social, quando, nos termos legais,
+€ 250 euros a € 25.000 euros, a violação do disposto no
+for obrigatória a sua elaboração, até 30 dias após a sua
+n.º 2 do artigo 16.º
+elaboração.
+2 — Constitui contraordenação punível com coima de
+Artigo 117.º € 250 euros a € 2.500 euros a violação do disposto no
+artigo 114.º
+Credenciação
+3 — A instrução do processo de contraordenação e a
+1 — Compete à CASES emitir, anualmente, credencial
+aplicação da respetiva coima competem à CASES.
+comprovativa da legal constituição e regular funciona-
+4 — A afetação do produto da coima faz -se da seguinte
+mento das cooperativas.
+forma:
+2 — O apoio técnico e financeiro às cooperativas por
+parte de entidades públicas fica dependente da credencial a) 40 % para a CASES;
+emitida pela CASES. b) 60 % para o Estado.
+Artigo 118.º
+Artigo 122.º
+Dissolução das cooperativas
+Revogação e entrada em vigor
+1 — A CASES deve requerer, através do Ministério
+1 — É revogado o Código Cooperativo, aprovado pela
+Público, junto do tribunal competente, a dissolução das
+Lei n.º 51/96, de 7 de setembro, alterada pelos Decretos-
+cooperativas que:
+-Leis n.os 343/98, de 6 de novembro, 131/99, de 21 de
+a) Não respeitem, na sua constituição ou funcionamento, abril, 108/2001, de 6 de abril, 204/2004, de 19 de agosto,
+os princípios cooperativos; ou 76 -A/2006, de 29 de março e 282/2009, de 7 de outubro;
+6600 Diário da República, 1.ª série — N.º 169 — 31 de agosto de 2015
+bem como toda a legislação vigente que contrarie o dis- c) [...];
+posto na presente lei. d) [...];
+2 — A presente lei entra em vigor no trigésimo dia após e) [...];
+a sua publicação. f) Unidade Ministerial de Compras.
+Aprovada em 22 de julho de 2015.
+2 — As unidades referidas nas alíneas a) a f) do nú-
+A Presidente da Assembleia da República, Maria da mero anterior são dirigidas por diretores de serviços,
+Assunção A. Esteves. cargos de direção intermédia de 1.º grau.
+Promulgada em 20 de agosto de 2015.
+Artigo 2.º
+Publique -se.
+[...]
+O Presidente da República, ANÍBAL CAVACO SILVA.
+[...]:
+Referendada em 24 de agosto de 2015.
+a) [...];
+Pelo Primeiro- Ministro, Paulo Sacadura Cabral Portas, b) [...];
+Vice -Primeiro -Ministro. c) [...];
+d) [...];
+e) [...];
+f) [...];
+MINISTÉRIOS DAS FINANÇAS E DO AMBIENTE,
+g) [...];
+ORDENAMENTO DO TERRITÓRIO E ENERGIA h) [...];
+i) [...];
+Portaria n.º 264/2015 j) [Anterior alínea k).]
+k) [Anterior alínea l).]
+de 31 de agosto l) [Anterior alínea m).]
+O Decreto -Lei n.º 153/2015, de 7 de agosto, procedeu à
+primeira alteração ao Decreto -Lei n.º 23/2012, de 1 de fe- Artigo 3.º
+vereiro, à primeira alteração ao Decreto -Lei n.º 54/2014, de
+[...]
+9 de abril, e à primeira alteração ao Decreto Regulamentar
+n.º 30/2012, de 13 de março, no sentido de estabelecer a [...]:
+prestação centralizada de serviços comuns, nos domínios
+a) [...];
+da gestão dos recursos humanos, financeiros, patrimoniais
+b) [...];
+e do apoio jurídico e de contencioso, aos serviços da ad-
+c) [Anterior alínea d).]
+ministração direta integrados no MAOTE, sem prejuízo
+d) [Anterior alínea e).]
+das atribuições próprias destes últimos.
+e) [Anterior alínea f).]
+Nos termos do Decreto- Lei n.º 54/2014, de 9 de
+f) [Anterior alínea g).]
+abril, com as alterações introduzidas pelo Decreto -Lei
+g) [Anterior alínea h).]
+n.º 153/2015, de 7 de agosto, a referida prestação centrali-
+zada de serviços passa a constituir atribuição da Secretaria-
+Artigo 4.º
+-Geral do MAOTE (SG MAOTE).
+Importa agora, no desenvolvimento desse decreto -lei, [...]
+ajustar a estrutura nuclear da SG MAOTE, estabelecida
+[...]:
+pela Portaria n.º 125/2014, de 25 de junho, ao referido
+alargamento de atribuições, a par de uma melhor ade- a) [...];
+quação da distribuição de algumas competências entre as b) [...];
+unidades orgânicas. c) [...];
+Assim: d) [...];
+Ao abrigo do disposto nos n.os 4 e 5 do artigo 21.º da Lei e) [...];
+n.º 4/2004, de 15 de janeiro, manda o Governo, pela Minis- f) [...];
+tra de Estado e das Finanças e pelo Ministro do Ambiente, g) [Anterior alínea i).]
+Ordenamento do Território e Energia, o seguinte: h) [Anterior alínea l).]
+i) [Anterior alínea k).]
+Artigo 1.º j) [...].
+Alteração à Portaria n.º 125/2014, de 25 de junho
+Artigo 5.º
+1 — São alterados os artigos 1.º, 2.º, 3.º, 4.º, 5.º e 6.º da
+Portaria n.º 125/2014, de 25 de junho, que passam a ter a [...]
+seguinte redação: [...]:
+«Artigo 1.º
+a) [...];
+[...] b) [...];
+c) [...];
+1 — [...]:
+d) [...];
+a) [...]; e) [...];
+b) [...]; f) [...];

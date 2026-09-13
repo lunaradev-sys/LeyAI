@@ -1,5 +1,6 @@
-import os
 import json
+import logging
+import os
 import re
 import unicodedata
 from pathlib import Path
@@ -7,6 +8,8 @@ from pathlib import Path
 import requests
 import trafilatura
 from google.cloud import storage
+
+logger = logging.getLogger("leyai")
 
 BASE_DIR = Path(__file__).parent
 RAW_DIR = BASE_DIR / "sources" / "raw"
@@ -30,6 +33,10 @@ def _bucket():
     return _cliente_storage().bucket(BUCKET_NAME)
 
 
+# ---------------------------------------------------------------------------
+# Manifiesto
+# ---------------------------------------------------------------------------
+
 def _cargar_manifest_nube() -> dict:
     blob = _bucket().blob("paises.json")
     if not blob.exists():
@@ -39,7 +46,9 @@ def _cargar_manifest_nube() -> dict:
 
 def _guardar_manifest_nube(manifest: dict):
     blob = _bucket().blob("paises.json")
-    blob.upload_from_string(json.dumps(manifest, ensure_ascii=False, indent=2), content_type="application/json")
+    blob.upload_from_string(
+        json.dumps(manifest, ensure_ascii=False, indent=2), content_type="application/json"
+    )
 
 
 def _cargar_manifest_local() -> dict:
@@ -48,11 +57,32 @@ def _cargar_manifest_local() -> dict:
     return json.loads(LOCAL_MANIFEST_PATH.read_text(encoding="utf-8"))
 
 
+def _guardar_manifest_local(manifest: dict):
+    LOCAL_MANIFEST_PATH.parent.mkdir(parents=True, exist_ok=True)
+    LOCAL_MANIFEST_PATH.write_text(
+        json.dumps(manifest, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
+
+
+# Nombres que usa prepare_sources.py, que trabaja solo con el manifiesto local.
+_cargar_manifest = _cargar_manifest_local
+_guardar_manifest = _guardar_manifest_local
+
+
 def listar_paises() -> dict:
+    """Los 15 base que viajan en la imagen, más los agregados desde la app."""
     manifest = dict(_cargar_manifest_local())
-    manifest.update(_cargar_manifest_nube())
+    try:
+        manifest.update(_cargar_manifest_nube())
+    except Exception as e:
+        # Permite trabajar en local sin credenciales de Google Cloud.
+        logger.warning("No se pudo leer el manifiesto del bucket, %s", e)
     return manifest
 
+
+# ---------------------------------------------------------------------------
+# Fuentes
+# ---------------------------------------------------------------------------
 
 def cargar_fuente(codigo: str) -> str:
     ruta_local = RAW_DIR / f"{codigo}.txt"
@@ -73,7 +103,9 @@ def _slug(nombre: str) -> str:
 
 
 def extraer_url(url: str, timeout: int = 20, verify_ssl: bool = True) -> str:
-    respuesta = requests.get(url, timeout=timeout, headers={"User-Agent": "Mozilla/5.0"}, verify=verify_ssl)
+    respuesta = requests.get(
+        url, timeout=timeout, headers={"User-Agent": "Mozilla/5.0"}, verify=verify_ssl
+    )
     respuesta.raise_for_status()
     texto = trafilatura.extract(respuesta.text, favor_recall=True)
     if not texto:
@@ -94,7 +126,9 @@ def agregar_fuente_texto(nombre: str, texto: str) -> str:
         codigo_final = f"{codigo}_{contador}"
         contador += 1
 
-    _bucket().blob(f"raw/{codigo_final}.txt").upload_from_string(texto, content_type="text/plain; charset=utf-8")
+    _bucket().blob(f"raw/{codigo_final}.txt").upload_from_string(
+        texto, content_type="text/plain; charset=utf-8"
+    )
 
     manifest_nube = _cargar_manifest_nube()
     manifest_nube[codigo_final] = nombre
@@ -106,7 +140,9 @@ def agregar_fuente_texto(nombre: str, texto: str) -> str:
 def eliminar_fuente(codigo: str):
     manifest_nube = _cargar_manifest_nube()
     if codigo not in manifest_nube:
-        raise ValueError(f"'{codigo}' no se puede eliminar (es uno de los 15 países base, o no existe).")
+        raise ValueError(
+            f"'{codigo}' no se puede eliminar (es uno de los países base, o no existe)."
+        )
 
     blob = _bucket().blob(f"raw/{codigo}.txt")
     if blob.exists():
